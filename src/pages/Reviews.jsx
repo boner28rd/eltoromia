@@ -22,8 +22,10 @@ export default function Reviews() {
         <div className="container-page">
           <SectionHeader align="center" eyebrow="All reviews" title={`All ${reviews.length} reviews.`} />
           <div className="mt-10 grid gap-6 md:grid-cols-2">
-            {reviews.map((review) => (
-              <article key={`${review.name}-${review.date}`} className="rounded-lg bg-paper p-6 shadow-sm ring-1 ring-charcoal/10">
+            {reviews.map((review, index) => (
+              // Name + date is not unique (two reviews share "Lintie Shirley, May 2023"),
+              // so the position in the source list is the stable identifier.
+              <article key={`${review.name}-${review.date}-${index}`} className="rounded-lg bg-paper p-6 shadow-sm ring-1 ring-charcoal/10">
                 <div className="flex gap-1 text-clay">
                   {Array.from({ length: 5 }).map((_, index) => (
                     <Star key={index} className={`h-4 w-4 ${index < review.rating ? "fill-current" : ""}`} />

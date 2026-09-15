@@ -1,145 +1,73 @@
-# Eltoromia Website
+# Eltoromia
 
-## Local Image Sorting Utility
-
-Run a dry-run scan of `source-photos`:
-
-```bash
-npm run sort:images
-```
-
-The utility scans supported source images recursively (`.jpg`, `.jpeg`, `.png`, `.webp`, `.heic`) and ignores generated folders:
-
-- `source-photos/jobs`
-- `source-photos/services`
-- `source-photos/_review`
-- `source-photos/_duplicates`
-
-It writes:
-
-- `source-photos/image-sort-plan.json`
-- `source-photos/image-sort-plan.md`
-
-Defaults are deliberately safe:
-
-- `dryRun: true`
-- `action: copy`
-- existing destination images are not overwritten
-- original images are left in place
-- low-confidence or unknown-stage images go to each job's `_review` folder when executed
-
-Execute the copy plan after reviewing the reports:
+Marketing site for **Eltoromia** — landscape and garden maintenance, Esher, Surrey.
+React + Vite + Tailwind, no backend.
 
 ```bash
-npm run sort:images -- --execute
+npm install
+npm run dev      # http://127.0.0.1:5173
+npm run build    # -> dist/  (~62 MB, almost all of it photography)
+npm run preview
 ```
 
-Copy selected good `after` or `detail` images into service folders as well:
+## Content
 
-```bash
-npm run sort:images -- --execute --copyServices true
-```
+All copy and data live in `src/data/` as JSON. There is no CMS; edit the JSON.
 
-Useful options:
-
-```bash
-npm run sort:images -- --dryRun true --action copy --threshold 0.65
-npm run sort:images -- --jobGapHours 4 --gpsSplitMeters 750
-npm run sort:images -- --classifier metadata
-```
-
-You can also create `image-sort.config.local.json` in the project root. Keep provider keys out of source control.
-
-```json
-{
-  "dryRun": true,
-  "action": "copy",
-  "confidenceThreshold": 0.65,
-  "copyServices": false,
-  "classifier": "metadata"
-}
-```
-
-Environment variables override config:
-
-- `IMAGE_SORT_DRY_RUN`
-- `IMAGE_SORT_ACTION`
-- `IMAGE_SORT_CONFIDENCE_THRESHOLD`
-- `IMAGE_SORT_COPY_SERVICES`
-- `IMAGE_SORT_CLASSIFIER`
-- `IMAGE_SORT_JOB_GAP_HOURS`
-- `IMAGE_SORT_GPS_SPLIT_METERS`
-
-`openai` and `ollama` classifiers are present as disabled placeholders behind the classifier setting. They return structured JSON-shaped results only and do not hardcode API keys.
-
-`action: "move"` is recognised but blocked unless `allowMoveOriginals` or `IMAGE_SORT_ALLOW_MOVE_ORIGINALS` is explicitly enabled. Keep the default `copy` action for this project unless the source folder has been backed up.
-
-## Local Image Classification Utility
-
-Run the review-folder classifier:
-
-```bash
-npm run classify:images
-```
-
-It scans only:
-
-```text
-source-photos/jobs/*/_review
-```
-
-For each job folder it writes:
-
-- `classification-report.json`
-
-It also writes:
-
-- `source-photos/jobs/classification-summary.md`
-
-The classifier does not move, rename, delete, copy, or overwrite image files. Report writes are create-only, so if a report already exists the command stops instead of replacing it.
-
-Default configuration lives in `appsettings.json`:
-
-```json
-{
-  "ClassificationProvider": "Metadata"
-}
-```
-
-You can also use a local `.env` file:
-
-```bash
-CLASSIFICATION_PROVIDER=Metadata
-JOBS_ROOT=source-photos/jobs
-REVIEW_FOLDER_NAME=_review
-CONFIDENCE_THRESHOLD=0.65
-```
-
-`MetadataImageClassifier` is the active provider. It is conservative: it uses folder names, filenames, image dimensions, and review-sequence position to suggest category, service tags, stage, quality, title, slug, and folder naming.
-
-`OpenAIImageClassifier` is included in the provider architecture but intentionally disabled. To enable it later, set `ClassificationProvider` to `OpenAI`, add an explicit implementation that sends each image with the allowed category/tag/stage/quality schema, and keep API keys in `.env`.
-
-`Ollama` is reserved as a future provider value. Add an Ollama classifier behind the same `IImageClassifier` shape so the reports keep the same JSON schema.
+| File | Holds |
+| --- | --- |
+| `company.json` | Name, contact details, service areas, story, values, process, SEO |
+| `services.json` | The 12 services, each with copy, benefits, process and FAQs |
+| `projects.json` | The 41 projects and their photo galleries |
+| `reviews.json` | 33 customer reviews |
+| `faq.json` | Site-wide FAQs |
+| `stats.json`, `social-links.json`, `navigation.json` | Supporting bits |
+| `imports/bark/` | Raw Bark profile extraction — the provenance for the company data above. Reference only; nothing imports it at runtime. |
 
 ## Photography
 
-The site ships only the images it actually renders. They live in `public/` and are
-WebP, generated from the originals:
+**Every photograph on this site is the company's own work.** There is no stock
+imagery, and none should be added — the site's copy explicitly claims this.
 
-- `public/images/projects/<project-id>/` - before / during / after shots per project,
-  each at a full size and a `-sm` size used by the gallery cards
-- `public/images/services/` - one card image and one hero per service
-- `public/images/site/` - page heroes and the About imagery
+Images are WebP, committed under `public/images/`:
 
-The original full-size job photographs are **not** in `public/`. They live in
-`source-photos/` so they are not copied into `dist/` and not served publicly:
+- `projects/<project-id>/` — `before-*`, `during-*`, `after-*`, each at a full
+  size and a `-sm` size used by the gallery cards
+- `services/` — a card image, a `-sm` card image and a `-hero` per service
+- `site/` — page heroes and the About imagery
 
-- `source-photos/jobs/<date>-job-NN/_review/` - originals grouped by upload batch
-- `source-photos/unsorted/` - the raw dump the sorter reads from
+The original full-size job photographs are **not** in this repo. They are the
+master archive (~145 MB, 610 files) and live outside it, alongside the
+photo-sorting scripts that group them. Keep them backed up separately.
 
-Keep it that way. Putting the originals back under `public/` adds roughly 145 MB
-to every deploy and publishes customers' unedited garden photos at guessable URLs.
+### Adding a project
 
-`src/data/projects.json` is generated content but is edited by hand from here on -
-it holds the curated selection, the ordering of each gallery and the written copy
-for every project.
+1. Pick the photographs and render WebP derivatives into
+   `public/images/projects/<new-id>/` following the naming above.
+2. Add an entry to `src/data/projects.json`. `image`/`thumb` are the card cover;
+   `beforeImage`/`afterImage` drive the drag-to-compare slider and the
+   "Before & after" badge; `gallery` is the ordered lightbox sequence.
+3. Set `serviceSlug` to a slug that exists in `services.json` so the project
+   appears on that service's page.
+
+Keep descriptions to what is actually visible in the photographs — materials,
+edge details, what was excavated. The projects deliberately claim no locations,
+durations or dates, because that information does not exist in the source
+photographs and inventing it would be a lie in the shop window.
+
+## Components worth knowing
+
+- `sections/ProjectsGrid.jsx` — filterable grid plus the lightbox (thumbnail
+  strip, arrow keys, Escape to close)
+- `sections/BeforeAfter.jsx` — drag-to-compare slider; the handle is a range
+  input so it works with a keyboard and a screen reader
+- `sections/ContactForm.jsx` — **no backend.** Composes a pre-filled `mailto:`
+  to the address in `company.json`. If a form endpoint is ever added, replace
+  `handleSubmit` and nothing else. Do not make it silently discard enquiries.
+
+## Before this goes live
+
+- Confirm the contact details in `company.json` with Jamie. They were read off
+  the company's own advertising board and the Bark profile, not given directly.
+- Check `faq.json` items 2 and 6 — they promise a "structured design pack" and a
+  "written workmanship guarantee". Both are unverified.
