@@ -1,0 +1,6 @@
+# Cloudflare Pages SPA fallback: serve index.html for any path that isn't a
+# real file (an actual /assets/*.js or /images/*.webp request still hits the
+# file directly). react-router then renders the route from location.pathname.
+# Unlike the GitHub Pages 404.html trick, this returns a real 200 - important
+# for search engines indexing a marketing site.
+/*  /index.html  200

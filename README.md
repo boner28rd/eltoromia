@@ -65,6 +65,25 @@ photographs and inventing it would be a lie in the shop window.
   to the address in `company.json`. If a form endpoint is ever added, replace
   `handleSubmit` and nothing else. Do not make it silently discard enquiries.
 
+## Deployment
+
+`npm run build` produces a root-relative build (`base: "/"` in vite.config.js)
+- correct for Cloudflare Pages, Netlify, or any host serving from a bare
+domain. Point Cloudflare Pages at this repo with build command `npm run
+build` and output directory `dist`; `public/_redirects` handles the SPA
+fallback so client-side routes (`/projects`, `/services/patios`, ...) return
+a real 200 instead of 404.
+
+GitHub Pages is also wired up (.github/workflows/deploy.yml) but serves from
+a subpath (`/eltoromia/`), which needs `VITE_BASE=/eltoromia/` at build time
+- the workflow sets this itself. **Do not set VITE_BASE when building for
+Cloudflare Pages or any other root-domain host**, and do not hardcode
+`base: "/eltoromia/"` in vite.config.js - that mismatch (subpath build served
+at a domain root) is what produces "Expected a JavaScript module script but
+the server responded with text/html", because the browser requests
+`/eltoromia/assets/index-*.js`, gets nothing there, and the SPA fallback hands
+back index.html instead.
+
 ## Before this goes live
 
 - Confirm the contact details in `company.json` with Jamie. They were read off
