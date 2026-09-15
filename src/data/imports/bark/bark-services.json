@@ -1,0 +1,96 @@
+{
+  "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#",
+  "rendered_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#",
+  "extracted_at": "2026-05-31T16:21:05.956Z",
+  "total_services_discovered": 11,
+  "services": [
+    {
+      "id": "gardening",
+      "index": 1,
+      "name": "Gardening",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "landscaping",
+      "index": 2,
+      "name": "Landscaping",
+      "description": null,
+      "source": "Bark profile category tag",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "fence-and-gate-installation",
+      "index": 3,
+      "name": "Fence & Gate Installation",
+      "description": null,
+      "source": "Bark profile category tag",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "artificial-grass-installation",
+      "index": 4,
+      "name": "Artificial Grass Installation",
+      "description": null,
+      "source": "Bark profile category tag",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "driveway-installation",
+      "index": 5,
+      "name": "Driveway Installation",
+      "description": null,
+      "source": "Bark profile category tag",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "patios-paths",
+      "index": 6,
+      "name": "Patios, paths",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "driveways",
+      "index": 7,
+      "name": "Driveways",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "fencing",
+      "index": 8,
+      "name": "Fencing",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "decking",
+      "index": 9,
+      "name": "Decking",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "bricklaying",
+      "index": 10,
+      "name": "Bricklaying",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    },
+    {
+      "id": "drainage",
+      "index": 11,
+      "name": "Drainage",
+      "description": null,
+      "source": "Bark Services accordion",
+      "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#"
+    }
+  ]
+}

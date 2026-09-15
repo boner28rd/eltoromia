@@ -427,3 +427,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- Vite web app ---
+dist/
+image-sort.config.local.json
+
+# Original job photography. This is the master archive (~145 MB, 610 files) and
+# is deliberately NOT in the repo: the site only serves the WebP derivatives
+# under public/images/. Back this folder up separately.
+source-photos/

@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "driveways",
+    "title": "Driveways",
+    "navigationLabel": "Driveways",
+    "icon": "CarFront",
+    "shortDescription": "Smart driveway surfaces with reliable drainage, neat edging and a strong arrival experience.",
+    "overview": "We build driveways that are practical for daily vehicle use while improving the look and value of the front of the property.",
+    "image": "/images/services/driveways.webp",
+    "heroImage": "/images/services/driveways-hero.webp",
+    "benefits": [
+      "Block paving, gravel, sett and hybrid finishes",
+      "Sustainable drainage advice",
+      "Edge restraints and kerb details",
+      "Front garden planting integration"
+    ],
+    "features": [
+      "Driveway widening",
+      "Path and step coordination",
+      "Bin-store and side access zones",
+      "Drainage channels and soakaway planning"
+    ],
+    "process": [
+      "Review access and drainage",
+      "Select surface system",
+      "Excavate and prepare base",
+      "Install finish, edges and final compaction"
+    ],
+    "faq": [
+      {
+        "question": "Do driveways need permeable drainage?",
+        "answer": "Many front driveway projects need to manage surface water responsibly. We advise on permeable systems, channels and soakaway routes during planning."
+      },
+      {
+        "question": "Can you widen an existing drive?",
+        "answer": "Yes. We can extend, re-edge or replace existing driveway areas depending on levels, boundaries and drainage."
+      }
+    ],
+    "related": [
+      "paving",
+      "brickwork",
+      "outdoor-renovations"
+    ],
+    "thumb": "/images/services/driveways-sm.webp"
+  },
+  {
+    "slug": "patios",
+    "title": "Patios",
+    "navigationLabel": "Patios",
+    "icon": "PanelsTopLeft",
+    "shortDescription": "Porcelain, natural stone and clay patio spaces laid with crisp detailing and dependable drainage.",
+    "overview": "Eltoromia creates patios that feel like an extension of the home, with careful setting out, resilient sub-bases, clean falls and material choices that suit the property.",
+    "image": "/images/services/patios.webp",
+    "heroImage": "/images/services/patios-hero.webp",
+    "benefits": [
+      "Porcelain, sandstone, limestone and clay options",
+      "Drainage and levels planned before installation",
+      "Crisp edging, steps and thresholds",
+      "Low-maintenance sealant and aftercare advice"
+    ],
+    "features": [
+      "Full excavation and sub-base preparation",
+      "Outdoor dining and lounge layouts",
+      "Raised patios and retaining details",
+      "Coordinated lighting and planting zones"
+    ],
+    "process": [
+      "Survey levels and access",
+      "Agree paving pattern and finish",
+      "Prepare base and drainage",
+      "Lay, joint, clean and hand over"
+    ],
+    "faq": [
+      {
+        "question": "Is porcelain paving slippery?",
+        "answer": "Outdoor-rated porcelain has textured finishes designed for exterior use. We recommend suitable slip ratings and explain cleaning requirements before installation."
+      },
+      {
+        "question": "How long does a patio take?",
+        "answer": "A typical domestic patio may take one to three weeks depending on excavation, access, steps, drainage and weather."
+      }
+    ],
+    "related": [
+      "paving",
+      "brickwork",
+      "garden-landscaping"
+    ],
+    "thumb": "/images/services/patios-sm.webp"
+  },
+  {
+    "slug": "paving",
+    "title": "Paving",
+    "navigationLabel": "Paving",
+    "icon": "Grid3X3",
+    "shortDescription": "Detailed paving for pathways, courtyards, terraces and utility spaces with durable foundations.",
+    "overview": "Our paving work brings order and rhythm to gardens, joining entrances, seating areas and utility spaces with surfaces that drain correctly and look settled.",
+    "image": "/images/services/paving.webp",
+    "heroImage": "/images/services/paving-hero.webp",
+    "benefits": [
+      "Material advice for heavy footfall",
+      "Tidy transitions between lawn, gravel and planting",
+      "Precision edging and restraint details",
+      "Built to manage standing water"
+    ],
+    "features": [
+      "Garden paths",
+      "Courtyard paving",
+      "Sett borders",
+      "Utility and bin-store surfaces"
+    ],
+    "process": [
+      "Confirm traffic and drainage needs",
+      "Select paving format",
+      "Excavate and edge",
+      "Install, compact and finish"
+    ],
+    "faq": [
+      {
+        "question": "Can paving be matched to existing stone?",
+        "answer": "Often, yes. We can source complementary materials or create a deliberate contrast when an exact match is not available."
+      },
+      {
+        "question": "Do paths need a sub-base?",
+        "answer": "Yes. Even light-use paths need proper preparation to avoid movement, dips and poor drainage."
+      }
+    ],
+    "related": [
+      "patios",
+      "driveways",
+      "garden-landscaping"
+    ],
+    "thumb": "/images/services/paving-sm.webp"
+  },
+  {
+    "slug": "artificial-grass",
+    "title": "Artificial Grass & Turf",
+    "navigationLabel": "Artificial Grass",
+    "icon": "Sprout",
+    "shortDescription": "Artificial turf and real turf laid on a permeable base, with proper edge restraint so it stays flat.",
+    "overview": "Artificial grass is one of the jobs we are asked for most, usually where a lawn has thinned out under trees or turned to mud over winter. The turf itself is the easy part. What makes it last is the base underneath and the edge holding it down.",
+    "benefits": [
+      "Usable all year, including through a wet winter",
+      "Works where grass has failed under mature trees",
+      "Permeable base so water drains rather than sits",
+      "Real turf supplied and laid where you would rather have grass"
+    ],
+    "features": [
+      "Artificial turf installation",
+      "Permeable sub-base and sand blinding",
+      "Timber, sleeper or block edge restraint",
+      "Turfing and lawn reinstatement"
+    ],
+    "process": [
+      "Strip out the old lawn and excavate",
+      "Lay and compact a permeable base",
+      "Fit the edge restraint",
+      "Lay, join, weight and brush the turf"
+    ],
+    "faq": [
+      {
+        "question": "Will artificial grass drain properly?",
+        "answer": "It does when the base is built for it. We excavate, lay a permeable sub-base and blind it before the turf goes down, so surface water drains through rather than sitting on top."
+      },
+      {
+        "question": "Can you lay real turf instead?",
+        "answer": "Yes. We prepare, level and turf lawns as well, and will say honestly which one suits your garden, the light it gets and how you want to use it."
+      }
+    ],
+    "related": [
+      "garden-landscaping",
+      "patios",
+      "garden-transformations"
+    ],
+    "image": "/images/services/artificial-grass.webp",
+    "thumb": "/images/services/artificial-grass-sm.webp",
+    "heroImage": "/images/services/artificial-grass-hero.webp"
+  },
+  {
+    "slug": "fencing",
+    "title": "Fencing",
+    "navigationLabel": "Fencing",
+    "icon": "Fence",
+    "shortDescription": "Contemporary boundary, privacy and decorative fencing installed with clean lines and robust posts.",
+    "overview": "Eltoromia installs fencing that improves privacy, frames planting and strengthens the look of the garden without making the space feel boxed in.",
+    "image": "/images/services/fencing.webp",
+    "heroImage": "/images/services/fencing-hero.webp",
+    "benefits": [
+      "Closeboard, slatted and decorative options",
+      "Concrete, timber or steel post systems",
+      "Boundary repair and full replacement",
+      "Careful neighbour-facing finish"
+    ],
+    "features": [
+      "Privacy screening",
+      "Garden zoning",
+      "Side gates",
+      "Trellis and climber support"
+    ],
+    "process": [
+      "Check boundary and levels",
+      "Specify panel and post system",
+      "Remove old fence if needed",
+      "Install posts, panels and finishing trims"
+    ],
+    "faq": [
+      {
+        "question": "Can you replace one damaged section?",
+        "answer": "Yes. We handle targeted repairs as well as full boundary upgrades."
+      },
+      {
+        "question": "What fence height is allowed?",
+        "answer": "Rules vary by location and boundary position. We can flag common height considerations, but homeowners should verify specific restrictions with the local authority."
+      }
+    ],
+    "related": [
+      "garden-landscaping",
+      "outdoor-renovations",
+      "brickwork"
+    ],
+    "thumb": "/images/services/fencing-sm.webp"
+  },
+  {
+    "slug": "brickwork",
+    "title": "Brickwork",
+    "navigationLabel": "Brickwork",
+    "icon": "BrickWall",
+    "shortDescription": "Garden walls, planters, steps and retaining details built to complement the house and landscape.",
+    "overview": "Our brickwork adds permanence and structure to outdoor spaces, from raised beds and steps to low retaining walls and boundary features.",
+    "image": "/images/services/brickwork.webp",
+    "heroImage": "/images/services/brickwork-hero.webp",
+    "benefits": [
+      "Brick matching and complementary detailing",
+      "Retaining and decorative garden walls",
+      "Steps, piers and raised planters",
+      "Integrated drainage and weep details"
+    ],
+    "features": [
+      "Curved planters",
+      "Boundary walls",
+      "Patio step sets",
+      "Outdoor kitchen bases"
+    ],
+    "process": [
+      "Assess loading and levels",
+      "Choose brick and bond",
+      "Prepare footings",
+      "Build, point and cure"
+    ],
+    "faq": [
+      {
+        "question": "Can you match my house brick?",
+        "answer": "We can source close matches or recommend a complementary brick where a perfect match is not available."
+      },
+      {
+        "question": "Do garden walls need footings?",
+        "answer": "Yes. Proper footings are essential for stability, especially for retaining walls or walls exposed to movement and frost."
+      }
+    ],
+    "related": [
+      "patios",
+      "driveways",
+      "garden-landscaping"
+    ],
+    "thumb": "/images/services/brickwork-sm.webp"
+  },
+  {
+    "slug": "decking",
+    "title": "Decking",
+    "navigationLabel": "Decking",
+    "icon": "LayoutGrid",
+    "shortDescription": "Timber and composite decking for raised seating areas, garden studios and outdoor living zones.",
+    "overview": "We design and install decking with strong subframes, practical access, discreet fixings and material choices that suit the maintenance level you want.",
+    "image": "/images/services/decking.webp",
+    "heroImage": "/images/services/decking-hero.webp",
+    "benefits": [
+      "Composite and natural timber options",
+      "Raised platforms and step details",
+      "Ventilated, durable subframe design",
+      "Lighting and balustrade coordination"
+    ],
+    "features": [
+      "Outdoor dining decks",
+      "Hot tub platforms",
+      "Garden room approaches",
+      "Integrated planters and benches"
+    ],
+    "process": [
+      "Assess level changes",
+      "Plan structure and access",
+      "Build subframe",
+      "Fit boards, trims and safety details"
+    ],
+    "faq": [
+      {
+        "question": "Is composite decking worth it?",
+        "answer": "Composite decking costs more upfront but offers low maintenance and consistent colour. Timber can be warmer and more natural but needs more care."
+      },
+      {
+        "question": "Can decking work on sloped gardens?",
+        "answer": "Yes. Decking can be a strong option for level seating on awkward gradients when the structure is designed correctly."
+      }
+    ],
+    "related": [
+      "outdoor-renovations",
+      "garden-transformations",
+      "fencing"
+    ],
+    "thumb": "/images/services/decking-sm.webp"
+  },
+  {
+    "slug": "garden-landscaping",
+    "title": "Garden Landscaping",
+    "navigationLabel": "Landscaping",
+    "icon": "Leaf",
+    "shortDescription": "Complete soft and hard landscaping that turns unused gardens into layered, practical outdoor rooms.",
+    "overview": "Eltoromia combines construction, planting, lawn preparation, paths, lighting zones and finishing details into gardens that feel coherent and easy to live with.",
+    "image": "/images/services/garden-landscaping.webp",
+    "heroImage": "/images/services/garden-landscaping-hero.webp",
+    "benefits": [
+      "Full garden layout planning",
+      "Balanced hard and soft landscaping",
+      "Planting schemes for UK conditions",
+      "Practical spaces for dining, play and relaxing"
+    ],
+    "features": [
+      "Lawns and turfing",
+      "Planting beds",
+      "Garden zoning",
+      "Lighting-ready infrastructure"
+    ],
+    "process": [
+      "Discover how the garden should feel",
+      "Map zones and materials",
+      "Build structural elements",
+      "Plant, finish and hand over"
+    ],
+    "faq": [
+      {
+        "question": "Do you supply plants?",
+        "answer": "Yes. We can source trees, shrubs, perennials and hedging suited to the site and maintenance preference."
+      },
+      {
+        "question": "Can you keep existing mature plants?",
+        "answer": "Where practical, yes. We survey what is worth retaining and protect key plants during construction."
+      }
+    ],
+    "related": [
+      "garden-transformations",
+      "patios",
+      "fencing"
+    ],
+    "thumb": "/images/services/garden-landscaping-sm.webp"
+  },
+  {
+    "slug": "garden-transformations",
+    "title": "Garden Transformations",
+    "navigationLabel": "Transformations",
+    "icon": "Sparkles",
+    "shortDescription": "Full outdoor redesign and build projects for gardens that need a complete rethink.",
+    "overview": "Garden transformations bring together layout, hard landscaping, planting, privacy, levels and lighting infrastructure into a cohesive outdoor living space.",
+    "image": "/images/services/garden-transformations.webp",
+    "heroImage": "/images/services/garden-transformations-hero.webp",
+    "benefits": [
+      "Single coordinated plan and build team",
+      "Clear phasing for complex works",
+      "High-impact entertaining and family spaces",
+      "A finish designed to mature beautifully"
+    ],
+    "features": [
+      "Outdoor rooms",
+      "Feature planting",
+      "Patios and decks",
+      "Boundary and privacy upgrades"
+    ],
+    "process": [
+      "Discovery and vision",
+      "Detailed concept and scope",
+      "Groundworks and construction",
+      "Planting, styling and aftercare"
+    ],
+    "faq": [
+      {
+        "question": "How long does a transformation take?",
+        "answer": "Most complete garden transformations run from four to ten weeks on site once design and materials are confirmed."
+      },
+      {
+        "question": "Can you include lighting and irrigation?",
+        "answer": "Yes. We can install ducting and coordinate specialist electrical or irrigation elements as part of the wider project."
+      }
+    ],
+    "related": [
+      "garden-landscaping",
+      "patios",
+      "decking"
+    ],
+    "thumb": "/images/services/garden-transformations-sm.webp"
+  },
+  {
+    "slug": "garden-maintenance",
+    "title": "Garden Maintenance",
+    "navigationLabel": "Maintenance",
+    "icon": "Scissors",
+    "shortDescription": "Regular cutting, edging, hedge work and seasonal tidying to keep a finished garden looking finished.",
+    "overview": "We maintain gardens we have built and gardens we have not. Regular visits keep lawns, edges, hedges and borders under control so the garden does not slide back into a clearance job.",
+    "benefits": [
+      "Regular visits on a schedule that suits the garden",
+      "Lawns cut, striped and edged back to the borders",
+      "Hedges, shrubs and borders kept in shape",
+      "Terraces and paths blown down and left clear"
+    ],
+    "features": [
+      "Lawn cutting and edging",
+      "Hedge trimming and shaping",
+      "Border weeding and mulching",
+      "Seasonal tidy-ups and green waste removal"
+    ],
+    "process": [
+      "Walk the garden and agree the visit scope",
+      "Set a frequency that matches the season",
+      "Cut, edge, trim and weed on each visit",
+      "Clear down and take the green waste away"
+    ],
+    "faq": [
+      {
+        "question": "Do you take on one-off tidies?",
+        "answer": "Yes. Plenty of our maintenance work starts as a single big tidy, and some of it stays as a one-off."
+      },
+      {
+        "question": "Do you take the green waste away?",
+        "answer": "Yes, cuttings and garden waste go with us at the end of the visit unless you would rather keep them for composting."
+      }
+    ],
+    "related": [
+      "garden-clearance",
+      "garden-landscaping",
+      "fencing"
+    ],
+    "image": "/images/services/garden-maintenance.webp",
+    "thumb": "/images/services/garden-maintenance-sm.webp",
+    "heroImage": "/images/services/garden-maintenance-hero.webp"
+  },
+  {
+    "slug": "garden-clearance",
+    "title": "Garden Clearance",
+    "navigationLabel": "Clearance",
+    "icon": "Trash2",
+    "shortDescription": "Overgrown gardens, old paving, rubble and failed structures cleared out and taken away.",
+    "overview": "Some gardens have to be emptied before anything can be designed. We clear overgrowth, break out old paving and concrete, strip rotten decking and fencing and take the waste away, leaving ground you can actually build on.",
+    "benefits": [
+      "Fully overgrown plots taken back to bare ground",
+      "Old paving, concrete and rubble broken out and removed",
+      "Rotten decking, sheds and fencing stripped",
+      "Machine access used where the site allows it"
+    ],
+    "features": [
+      "Overgrowth and bramble clearance",
+      "Paving and concrete break-out",
+      "Deck, shed and fence removal",
+      "Waste loading and disposal"
+    ],
+    "process": [
+      "Assess access and what has to come out",
+      "Clear growth and strip structures",
+      "Break out and load old hard surfaces",
+      "Remove the waste and leave the ground level"
+    ],
+    "faq": [
+      {
+        "question": "How overgrown is too overgrown?",
+        "answer": "We have cleared gardens that had not been touched in years and were solid brambles. If you can no longer walk into it, it is the right job for us."
+      },
+      {
+        "question": "Can clearance lead straight into a build?",
+        "answer": "Usually yes, and it is more efficient that way. We can clear, then carry on into paving, fencing or turfing without a second mobilisation."
+      }
+    ],
+    "related": [
+      "garden-transformations",
+      "garden-maintenance",
+      "garden-landscaping"
+    ],
+    "image": "/images/services/garden-clearance.webp",
+    "thumb": "/images/services/garden-clearance-sm.webp",
+    "heroImage": "/images/services/garden-clearance-hero.webp"
+  },
+  {
+    "slug": "outdoor-renovations",
+    "title": "Outdoor Renovations",
+    "navigationLabel": "Renovations",
+    "icon": "Hammer",
+    "shortDescription": "Targeted upgrades for tired patios, broken boundaries, poor access and underused garden zones.",
+    "overview": "Not every garden needs a blank-sheet redesign. We renovate problem areas with a practical scope that improves daily use and refreshes the finish.",
+    "image": "/images/services/outdoor-renovations.webp",
+    "heroImage": "/images/services/outdoor-renovations-hero.webp",
+    "benefits": [
+      "Efficient improvement without full redesign",
+      "Repair, replace or reconfigure options",
+      "Better access, safety and drainage",
+      "Ideal before selling or seasonal entertaining"
+    ],
+    "features": [
+      "Patio refreshes",
+      "Fence and gate upgrades",
+      "Step and level repairs",
+      "Outdoor lighting preparation"
+    ],
+    "process": [
+      "Identify problem areas",
+      "Prioritise impact and budget",
+      "Schedule trades and materials",
+      "Complete focused upgrade works"
+    ],
+    "faq": [
+      {
+        "question": "Can you renovate in phases?",
+        "answer": "Yes. We can plan works so each phase improves the garden without causing avoidable rework later."
+      },
+      {
+        "question": "Do you repair unsafe steps?",
+        "answer": "Yes. We can rebuild or replace steps, landings and transitions where levels or materials have become unsafe."
+      }
+    ],
+    "related": [
+      "decking",
+      "paving",
+      "fencing"
+    ],
+    "thumb": "/images/services/outdoor-renovations-sm.webp"
+  }
+]

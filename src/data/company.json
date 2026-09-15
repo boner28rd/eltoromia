@@ -1,0 +1,108 @@
+{
+  "name": "Eltoromia",
+  "legalDescriptor": "Landscape & Garden Maintenance",
+  "tagline": "Where gardens matter.",
+  "description": "Eltoromia is a Surrey landscaping team building driveways, patios and paths, artificial grass, brickwork, fencing and gates, and full garden transformations for homes across Esher, Surrey and South West London.",
+  "established": "2005",
+  "yearsInBusiness": 20,
+  "address": {
+    "town": "Esher",
+    "county": "Surrey",
+    "postcodeArea": "KT10",
+    "country": "United Kingdom",
+    "display": "Esher, Surrey KT10"
+  },
+  "phone": "07704 400 713",
+  "email": "jamie@eltoromia.co.uk",
+  "serviceAreas": ["Esher", "Surrey", "South West London", "Kingston", "Elmbridge"],
+  "hours": [
+    { "day": "Monday - Friday", "time": "08:00 - 18:00" },
+    { "day": "Saturday", "time": "09:00 - 14:00" },
+    { "day": "Sunday", "time": "Closed" }
+  ],
+  "hero": {
+    "eyebrow": "Landscaping and garden construction in Surrey",
+    "title": "Where gardens matter.",
+    "intro": "Twenty years of driveways, patios, decking, brickwork, fencing and full garden transformations across Esher, Surrey and South West London. Every photograph on this site is our own work.",
+    "image": "/images/site/hero.webp"
+  },
+  "story": {
+    "eyebrow": "Twenty years on the tools",
+    "title": "A small team that does the groundwork properly.",
+    "body": "Eltoromia is run by Jamie and works as a tight, hands-on crew rather than a chain of subcontractors. Twenty years of driveways, patios, brickwork, decking and fencing across Surrey and South West London means most of what we do is groundwork you never see: excavation, sub-bases, falls, edge restraint and drainage. Get those right and the surface on top holds its line for decades. We quote clearly, start when we say we will, keep the site tidy while we work and leave the garden clean.",
+    "image": "/images/site/story.webp"
+  },
+  "mission": "To build outdoor spaces that are still holding their line in twenty years, for homeowners who would rather have it done once and done properly.",
+  "values": [
+    {
+      "title": "The groundwork comes first",
+      "text": "Excavation, sub-base, falls and edge restraint are where a driveway or patio is won or lost. We do not cut those corners to make a price look better.",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "One team, start to finish",
+      "text": "The people who quote the job are the people who build it. A crew of two to ten on site, with no chain of subcontractors to chase.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Tidy sites, clear updates",
+      "text": "Customers tell us the same two things most often: the garden was kept tidy throughout, and everything was explained before it happened.",
+      "icon": "ClipboardCheck"
+    }
+  ],
+  "whyChoose": [
+    "Twenty years of landscaping and outdoor construction across Surrey",
+    "Elite Pro and verified business on Bark, with 160+ hires completed",
+    "Quotes talked through on site before anything is booked in",
+    "Gardens kept tidy and cleared down at the end of every day",
+    "Typical response to a new enquiry within four hours",
+    "Every project photograph on this site is our own work"
+  ],
+  "trustIndicators": [
+    "Bark Elite Pro",
+    "Verified business",
+    "160+ hires completed",
+    "4.8 average from 33 reviews",
+    "20 years in business"
+  ],
+  "team": [
+    {
+      "name": "Jamie",
+      "role": "Owner and project lead",
+      "bio": "Jamie quotes every job on site, sets the work out and stays on the tools through the build. He is named in most of our reviews, usually for explaining exactly what was going to happen before it happened.",
+      "image": "/images/site/signboard.webp"
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Site visit and quote",
+      "text": "We come out, look at access, levels, drainage and what the ground is actually made of, then talk through the options and what each one costs."
+    },
+    {
+      "step": "02",
+      "title": "Excavate and prepare",
+      "text": "Clearance, excavation, sub-base, falls and edge restraint. This is the part that decides whether the finish lasts, and it is the part that takes the time."
+    },
+    {
+      "step": "03",
+      "title": "Build and finish",
+      "text": "Paving, brickwork, decking, turf or fencing goes in, with the cuts, joints and edge details set out before anything is fixed down."
+    },
+    {
+      "step": "04",
+      "title": "Clear down and hand over",
+      "text": "Waste away, site washed down, and a walk round the finished garden with you before we leave."
+    }
+  ],
+  "cta": {
+    "title": "Thinking about a driveway, patio or a whole garden?",
+    "text": "Send over a few photos and a rough idea of what you want. We usually come back within four hours.",
+    "primary": "Get a quote",
+    "secondary": "See what we build"
+  },
+  "seo": {
+    "title": "Eltoromia | Landscaping, Driveways & Patios in Esher, Surrey",
+    "description": "Eltoromia is a Surrey landscaping team with 20 years of driveways, patios, paths, artificial grass, brickwork, fencing and garden transformations across Esher and South West London."
+  }
+}

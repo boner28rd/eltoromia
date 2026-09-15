@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Jonathan",
+    "location": "",
+    "rating": 5,
+    "service": "Shed base",
+    "text": "Jamie did a great job putting in a shed base. Got it done quickly and well. Explained everything and tidied everything up afterwards. Would definitely use again",
+    "date": "May 2026",
+    "featured": true
+  },
+  {
+    "name": "Jamie",
+    "location": "",
+    "rating": 5,
+    "service": "Garden Clearance",
+    "text": "Smashed it! I was looking for a landscaping team to come and clear two large concrete flower beds and couldn’t be happier with who I found. Jamie and Rob were very friendly and started on the job immediately, keeping my garden tidy throughout. After offering a very competitive price, both guys knew exactly what they were talking about and have recommended what’s next for my garden. I look forward to working with these guys again for my future garden projects. Highly recommend these guys!",
+    "date": "April 2026",
+    "featured": true
+  },
+  {
+    "name": "Audrey",
+    "location": "",
+    "rating": 4,
+    "service": "Artificial Grass Installation",
+    "text": "Jamie and his team did a wonderful job. He takes time to explain everything he is going to and give suggestions he is very proffesonal. He has a a wonderful job to my garden, I definitely recommend him.",
+    "date": "March 2026",
+    "featured": true
+  },
+  {
+    "name": "Richard and Louise",
+    "location": "",
+    "rating": 5,
+    "service": "Landscaping",
+    "text": "Jamie and Rob were brilliant. On quote on time - nothing was too much trouble. They continually asked for guidance on exactly how we wanted finished look. Use these guys - you won't be disappointed!",
+    "date": "March 2026",
+    "featured": false
+  },
+  {
+    "name": "Joe",
+    "location": "",
+    "rating": 5,
+    "service": "Driveway",
+    "text": "These guys did a fantastic job of my driveway, can’t recommend them enough",
+    "date": "March 2026",
+    "featured": false
+  },
+  {
+    "name": "Tina Pickard",
+    "location": "",
+    "rating": 5,
+    "service": "Artificial Grass Installation",
+    "text": "Jamie and his team did a fantastic job in laying my artificial grass did an amazing job , Jamie was a pleasure to work with so helpful very detail, gave loads of advice which was so helpful. I am so impressed with Jamie and Rob that I have asked them to landscape my front garden Great job great to deal with in all aspects. Many thanks Jamie and Rob. Great Job",
+    "date": "February 2026",
+    "featured": false
+  },
+  {
+    "name": "Lucy",
+    "location": "",
+    "rating": 5,
+    "service": "Fence & Gate Repair",
+    "text": "Amazing job 👏 the guys were really friendly and the job was done very well tidy up after no waste materials were left 10/10 wouldn't hesitate to recommend 👍",
+    "date": "December 2025",
+    "featured": false
+  },
+  {
+    "name": "Sarah",
+    "location": "",
+    "rating": 5,
+    "service": "Pressure washing",
+    "text": "Really happy with the job that they did! They cleaned our garden floor with a pressure washer and the results were amazing — it looks fresh and brand new again. They were friendly, professional, and worked efficiently the whole time. You can tell they take pride in their work. I’d definitely recommend them to anyone looking for a reliable and thorough cleaning service. Thanks again for a great job!",
+    "date": "December 2025",
+    "featured": false
+  },
+  {
+    "name": "Mark Nielson",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Jamie from Eltoromia has been a pleasure to work with, nothing too much trouble and did some excellent planting work at short notice and a fair price with utmost professionalism. Hope to enlist his help on further projects.",
+    "date": "November 2025",
+    "featured": false
+  },
+  {
+    "name": "JR",
+    "location": "",
+    "rating": 5,
+    "service": "Front garden renovation",
+    "text": "I would 100% recommend Jamie to anyone. He’s communicative, reliable and incredibly skilled. His attention to detail and the pride he takes in his work is obvious from the start. He helped plan the project, gave advice on what to use and answered any questions I had. The result is a beautiful front garden and path that turned out better than I hoped.",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Clare",
+    "location": "",
+    "rating": 5,
+    "service": "Garden makeover",
+    "text": "Great job on my garden makeover. Groundwork, paving, drainage, brickwork and paving. So pleased with the result. Lots of help and advice on the options and costing for each element. Fair price paid I stages. Friendly team, would highly recommend",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Nisha",
+    "location": "",
+    "rating": 5,
+    "service": "Patio Services",
+    "text": "I used Eltoromia for landscaping our garden, including decking, tiling the patio and laying the lawn. Jamie was great to work with, lots of great ideas which helped us load! Really pleasant to deal with. I would highly recommend this company!",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Tilly",
+    "location": "",
+    "rating": 5,
+    "service": "Patio services",
+    "text": "Jay was brilliant: personable, friendly and built trust very quickly with his excellent knowledge and problem solving skills. My garden is completely transformed into a functional space from essentially just a mound of weedy dirt. The work was extensive: levelling to two distinct areas with a sleeper retaining wall 8m across and 1.2m high with some beautiful sleeper steps, and fencing all around. It felt like a partnership the whole way through, he really listened to what I wanted and is a perfectionist so brings very high quality work. As with any big excavation work there were issues we faced along the way and he communicated these clearly and gave solutions to the problems (mostly buried concrete and a buried drain!). I would happily work with Jay again in the future and feel confident that the standard of work I would receive would be of the highest quality. Can’t wait to see what magic he works with our wonky patio!",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Michael Martin",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Great service from start to finish such a professional job and went the extra mile would totally recommend 100%",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Emma",
+    "location": "",
+    "rating": 5,
+    "service": "Garden landscaping",
+    "text": "I recently had the pleasure of having my garden transformed by Jamie, and I couldn’t be happier with the result. From start to finish, his work ethic was outstanding hardworking, reliable, and professional throughout. Jamie’s communication was excellent, and he went above and beyond by helping me with the design as well as the build. The finished garden is absolutely spot on, and I can’t fault a single thing. I would highly recommend Jamie to anyone looking for quality workmanship and a friendly, trustworthy service.",
+    "date": "September 2025",
+    "featured": false
+  },
+  {
+    "name": "Fiona",
+    "location": "",
+    "rating": 4,
+    "service": "Garden Clearance",
+    "text": "Jaimie and his team were a great team to deal with while they completed my paving area. They kept the garden neat while working and were always clear about the stages they were at what decisions were required from me. The overall finish is a fab addition to our garden.",
+    "date": "August 2023",
+    "featured": false
+  },
+  {
+    "name": "Wai",
+    "location": "",
+    "rating": 5,
+    "service": "Fence and gate work",
+    "text": "First off, I just want to say a big thank you to Jamie and the team. They were amazing and super efficient. I asked Jamie to give us a quote on putting up a brand new fence in the back of our garden. The quote was really competitive compared to other quotations we had. This comprised of putting in new concrete posts, gravel boards and feathered edge fencing panels. The team came in to take out our old fence and a brand new fence was put up within two days. Jamie disposed of our old fence and tidied everything up afterwards. It was very smooth from start to finish. Communication with Jamie was great and the quality and standard of work is excellent. I would recommend Jamie and Eltoromia to anyone who are thinking of getting work done to their garden. I would certainly be using Jamie and Eltoromia again. Many thanks again Jamie and the team!",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Lintie Shirley",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "With a keen eye for detail, Jamie & co. transformed our sprawling garden from the ordinary to the extraordinary. It is now a little piece of paradise, indeed. Job well done.",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Rita Blackmore",
+    "location": "",
+    "rating": 5,
+    "service": "Landscape Design",
+    "text": "Hard working team with amazing results our new patio & path look wonderful. Jamie came up with some great ideas which we implemented Very consensus couldn’t have asked for more",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Colette",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "I found Jamie and his boys polite very hard working and did the job exactly how I wanted. Dug over my allotment for me they took all the BBC weeds away with them. Thank you will defo use you again in the future and will recommend to all my friends. Good price quoted too.",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Hector",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Great job, super happy with the results and fair price",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Jane Sprague",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Many thanks to Jamie and his friendly hardworking team who mowed, weeded, pruned and pressure washed my front and back garden which had got very out of control. Rubbish was cleared and removed and the garden looks lovely. Highly recommend.",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Lintie Shirley",
+    "location": "",
+    "rating": 1,
+    "service": "Gardening",
+    "text": "Several of my garden tools went missing by mistake or design, after these contractors left. I paid in advance for a service which was never completed, My number was blocked so I was unable to resolve the issues. Not pleased.",
+    "date": "May 2023",
+    "featured": false
+  },
+  {
+    "name": "Stanley Phipps",
+    "location": "",
+    "rating": 5,
+    "service": "Landscaping",
+    "text": "Jamie and his team done a great job. Good value. Nice chaps.",
+    "date": "April 2023",
+    "featured": false
+  },
+  {
+    "name": "Amelia",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Jamie provided an excellent service, gave us a great quote for the requested work and didn't make us wait long at all. Very punctual on the day of work. Left our garden tidy. Would definitely recommend and use his service again",
+    "date": "February 2023",
+    "featured": false
+  },
+  {
+    "name": "Dovile",
+    "location": "",
+    "rating": 5,
+    "service": "Gardening",
+    "text": "Jamie was fantastic at providing gardening service for my garden. He agreed to do the job in a very tight timeframe. Very professional, brilliant attitude and communication skills.",
+    "date": "February 2023",
+    "featured": false
+  },
+  {
+    "name": "Katy",
+    "location": "",
+    "rating": 5,
+    "service": "Fence & Gate Installation",
+    "text": "Jamie provided fantastic service and did a great job installing our new fence with his team. Not only did we get a great price, but where others said they would only fit us in in a few weeks' time, he moved things around to get it done sooner; and where others said it would be two days of disruption, he and his team did it in one. Excellent communication at all stages - really impressed and highly recommend.",
+    "date": "February 2023",
+    "featured": false
+  },
+  {
+    "name": "Margaret",
+    "location": "",
+    "rating": 5,
+    "service": "Decking and patio",
+    "text": "Just had a fantastic garden make over, Jamie has put huge effort into it being perfect, my new decking area is just right and so happy with the artificial grass but most of all I’m so happy with the perfectly laid patio it’s spot on. Couldn’t be happier and highly recommend. Thanku jamie can’t wait to enjoy your hard work when the better weather comes.",
+    "date": "January 2023",
+    "featured": false
+  },
+  {
+    "name": "A Green",
+    "location": "",
+    "rating": 5,
+    "service": "Fence & Gate Installation",
+    "text": "Really pleased with the whole process of dealing with Jamie, from getting the quote (which was very competitively priced) to booking in the work and getting it completed. Jamie communicated throughout the process, turned up on time and completed the work quickly and left the garden tidy. I would happily recommend asking Eltoromia for a quote",
+    "date": "January 2023",
+    "featured": false
+  },
+  {
+    "name": "D Clarke",
+    "location": "",
+    "rating": 5,
+    "service": "Patio services",
+    "text": "Eltoromia, instead a new patio area with new ramps for better access. The work team where polite and helpful. The quality of work was excellent and on budget. Thanks again Jamie and your team for the incredible work done Mr D Clarke",
+    "date": "January 2023",
+    "featured": false
+  },
+  {
+    "name": "Paul H",
+    "location": "",
+    "rating": 5,
+    "service": "Front garden renovation",
+    "text": "Jamie went above and beyond to ensure that the front garden of my terraced house was renovated completely to the highest standard. Would recommend him for Victorian tiling, slate tiling, brickwork general landscaping works.",
+    "date": "January 2023",
+    "featured": false
+  },
+  {
+    "name": "Sam",
+    "location": "",
+    "rating": 5,
+    "service": "Landscaping",
+    "text": "Jamie and his team worked very efficiently and also had great attention to extra details and gave great advice. Worked to the timescale and also the job price. Very pleased with the finish and would recommend them.",
+    "date": "January 2023",
+    "featured": false
+  },
+  {
+    "name": "Vicki Gibb",
+    "location": "",
+    "rating": 5,
+    "service": "Driveway",
+    "text": "Jamie and his team replaced an old fence in our garden. His quote was very competitive, itemised out so we knew exactly what we were paying for. Jamie worked around our availability with no problems. The work was done in two days, working hard and tirelessly to make sure the work was completed by our tight deadline. All rubbish was removed, the site cleared and left looking very smart. The quality of the work is top notch. He consulted with us with an issue that came up and offered a few options to overcome the issue. We are so pleased with the finished product and will definitely be asking him to return to do the other side’s fencing and paving our driveway. Thank you Jamie and team and the kids say thank you for taking the time to have a little football kick around with them 😊",
+    "date": "January 2023",
+    "featured": false
+  }
+]

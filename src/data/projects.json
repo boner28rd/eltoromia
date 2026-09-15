@@ -1,0 +1,2312 @@
+{
+  "categories": [
+    "All",
+    "Patios",
+    "Garden Transformations",
+    "Paths & Paving",
+    "Decking",
+    "Driveways",
+    "Artificial Grass",
+    "Brickwork",
+    "Fencing",
+    "Garden Maintenance"
+  ],
+  "items": [
+    {
+      "id": "split-level-porcelain-terrace",
+      "title": "Split-Level Porcelain Terrace with Brick Retaining Walls",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "A dropped, crumbling brick garden rebuilt as a split-level porcelain terrace with brick retaining walls and full-width steps.",
+      "details": "The original garden sat below the house on failing brickwork and loose rubble. We took the whole level out, rebuilt the retaining walls in matching brick, formed a generous flight of steps and finished both levels in light porcelain with tight, consistent joints. The low wall doubles as informal seating along the planted edge.",
+      "highlights": [
+        "Brick retaining walls rebuilt from scratch",
+        "Full-width porcelain steps between levels",
+        "Two usable terraces from one unusable slope",
+        "Tight, consistent jointing throughout"
+      ],
+      "tags": [
+        "Porcelain",
+        "Retaining walls",
+        "Steps",
+        "Split level"
+      ],
+      "image": "/images/projects/split-level-porcelain-terrace/after-1.webp",
+      "thumb": "/images/projects/split-level-porcelain-terrace/after-1-sm.webp",
+      "beforeImage": "/images/projects/split-level-porcelain-terrace/before-1.webp",
+      "afterImage": "/images/projects/split-level-porcelain-terrace/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/before-1.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/before-2.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/during-1.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/during-2.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/during-3.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/after-1.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/after-2.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/after-3.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/split-level-porcelain-terrace/after-4.webp",
+          "thumb": "/images/projects/split-level-porcelain-terrace/after-4-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "cream-porcelain-courtyard",
+      "title": "Cream Porcelain Courtyard and Steps",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": false,
+      "summary": "A dark, dated courtyard relaid in cream porcelain with new steps up to the house.",
+      "details": "Working in a tight courtyard with no machine access, every slab and barrow-load was moved by hand. The old mixed surfaces came out, levels and falls were reset away from the building, and the new paving was laid to meet the existing brick steps cleanly.",
+      "highlights": [
+        "Hand-dug in a no-access courtyard",
+        "Falls reset away from the house",
+        "Cream porcelain laid to the existing steps",
+        "Sharp cuts around walls and thresholds"
+      ],
+      "tags": [
+        "Porcelain",
+        "Courtyard",
+        "Steps",
+        "Hand dig"
+      ],
+      "image": "/images/projects/cream-porcelain-courtyard/after-1.webp",
+      "thumb": "/images/projects/cream-porcelain-courtyard/after-1-sm.webp",
+      "beforeImage": "/images/projects/cream-porcelain-courtyard/before-1.webp",
+      "afterImage": "/images/projects/cream-porcelain-courtyard/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/before-1.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/during-1.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/during-2.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/after-1.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/after-2.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/cream-porcelain-courtyard/after-3.webp",
+          "thumb": "/images/projects/cream-porcelain-courtyard/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "victorian-front-garden-tiled-path",
+      "title": "Victorian Front Garden: Brick Wall and Geometric Tiled Path",
+      "category": "Brickwork",
+      "serviceSlug": "brickwork",
+      "featured": true,
+      "summary": "A Victorian frontage restored with a rebuilt brick garden wall, rendered steps and a black and white geometric tiled path.",
+      "details": "The frontage had lost its original character to worn slabs and a failed boundary. We rebuilt the garden wall in matching stock brick with piers and copings, formed new steps to the front door, and laid a traditional black and white geometric tile path with a border to suit the period of the house.",
+      "highlights": [
+        "Stock brick wall with piers and copings",
+        "Geometric tiled path in a period pattern",
+        "New steps and thresholds to the front door",
+        "Side path relaid to match"
+      ],
+      "tags": [
+        "Brickwork",
+        "Victorian tiles",
+        "Front garden",
+        "Period property"
+      ],
+      "image": "/images/projects/victorian-front-garden-tiled-path/after-1.webp",
+      "thumb": "/images/projects/victorian-front-garden-tiled-path/after-1-sm.webp",
+      "beforeImage": "/images/projects/victorian-front-garden-tiled-path/before-1.webp",
+      "afterImage": "/images/projects/victorian-front-garden-tiled-path/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/before-1.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/before-2.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/during-1.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/during-2.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/during-3.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/after-1.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/after-2.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/victorian-front-garden-tiled-path/after-3.webp",
+          "thumb": "/images/projects/victorian-front-garden-tiled-path/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "london-courtyard-deck",
+      "title": "London Courtyard: Hardwood Deck and Slate Paving",
+      "category": "Decking",
+      "serviceSlug": "decking",
+      "featured": true,
+      "summary": "An overgrown, waterlogged town courtyard rebuilt with a hardwood deck and slate paving.",
+      "details": "Years of leaf litter and a rotten deck had made the courtyard unusable. We cleared and levelled the whole space, built a new deck frame off the house, and laid dark slate paving to the remainder so the two surfaces meet flush. The result is a low-maintenance outdoor room for a garden that gets very little sun.",
+      "highlights": [
+        "Rotten deck stripped and rebuilt",
+        "Slate paving laid flush to the deck",
+        "Whole courtyard cleared and re-levelled",
+        "Chosen for a shaded, low-light garden"
+      ],
+      "tags": [
+        "Decking",
+        "Slate",
+        "Courtyard",
+        "Shade"
+      ],
+      "image": "/images/projects/london-courtyard-deck/after-1.webp",
+      "thumb": "/images/projects/london-courtyard-deck/after-1-sm.webp",
+      "beforeImage": "/images/projects/london-courtyard-deck/before-1.webp",
+      "afterImage": "/images/projects/london-courtyard-deck/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/london-courtyard-deck/before-1.webp",
+          "thumb": "/images/projects/london-courtyard-deck/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/before-2.webp",
+          "thumb": "/images/projects/london-courtyard-deck/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/before-3.webp",
+          "thumb": "/images/projects/london-courtyard-deck/before-3-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/during-1.webp",
+          "thumb": "/images/projects/london-courtyard-deck/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/during-2.webp",
+          "thumb": "/images/projects/london-courtyard-deck/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/during-3.webp",
+          "thumb": "/images/projects/london-courtyard-deck/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/after-1.webp",
+          "thumb": "/images/projects/london-courtyard-deck/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/london-courtyard-deck/after-2.webp",
+          "thumb": "/images/projects/london-courtyard-deck/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "silver-sandstone-patio",
+      "title": "Broken Crazy Paving Replaced with Silver Sandstone",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "Failing crazy paving lifted and replaced with a silver-grey sandstone patio across the full rear of the house.",
+      "details": "The old surface had broken up and was holding water against the building. We machine-excavated the area, laid a proper sub-base with falls away from the house, and paved in silver-grey sandstone with a clean edge against the planted border.",
+      "highlights": [
+        "Machine excavation and full sub-base",
+        "Falls set away from the building",
+        "Silver-grey sandstone with a crisp border edge",
+        "Existing planting retained and worked around"
+      ],
+      "tags": [
+        "Sandstone",
+        "Patio",
+        "Drainage",
+        "Excavation"
+      ],
+      "image": "/images/projects/silver-sandstone-patio/after-1.webp",
+      "thumb": "/images/projects/silver-sandstone-patio/after-1-sm.webp",
+      "beforeImage": "/images/projects/silver-sandstone-patio/before-1.webp",
+      "afterImage": "/images/projects/silver-sandstone-patio/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/silver-sandstone-patio/before-1.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/before-2.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/during-1.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/during-2.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/after-1.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/after-2.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/silver-sandstone-patio/after-3.webp",
+          "thumb": "/images/projects/silver-sandstone-patio/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "artificial-lawn-porcelain-path",
+      "title": "Artificial Lawn and Porcelain Path in a Small Rear Garden",
+      "category": "Artificial Grass",
+      "serviceSlug": "artificial-grass",
+      "featured": false,
+      "summary": "A muddy winter garden turned into a year-round usable space with artificial grass and a porcelain path.",
+      "details": "The garden was unusable for most of the year. We dug out, laid a permeable base, installed artificial turf and ran a light porcelain path from the back door to the shed and bin store so the garden works in all weather.",
+      "highlights": [
+        "Permeable base under the artificial turf",
+        "Porcelain path to the shed and bin store",
+        "Usable in winter as well as summer",
+        "Clean edge detail between turf and paving"
+      ],
+      "tags": [
+        "Artificial grass",
+        "Porcelain",
+        "Low maintenance"
+      ],
+      "image": "/images/projects/artificial-lawn-porcelain-path/after-1.webp",
+      "thumb": "/images/projects/artificial-lawn-porcelain-path/after-1-sm.webp",
+      "beforeImage": "/images/projects/artificial-lawn-porcelain-path/before-1.webp",
+      "afterImage": "/images/projects/artificial-lawn-porcelain-path/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-path/before-1.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-path/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-path/before-2.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-path/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-path/during-1.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-path/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-path/after-1.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-path/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-path/after-2.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-path/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "sleeper-raised-beds",
+      "title": "Railway Sleeper Raised Beds and Border Rebuild",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-landscaping",
+      "featured": false,
+      "summary": "A collapsing border rebuilt as railway sleeper raised beds with fresh topsoil and planting depth.",
+      "details": "The existing border had slumped and was losing soil onto the lawn. We stripped it back, built retaining beds from railway sleepers fixed to timber posts, and backfilled with quality topsoil to give proper root depth for shrubs and perennials.",
+      "highlights": [
+        "Sleepers fixed to buried timber posts",
+        "Backfilled with quality topsoil",
+        "Generous depth for shrubs and perennials",
+        "Existing mature plants lifted and replanted"
+      ],
+      "tags": [
+        "Sleepers",
+        "Raised beds",
+        "Planting"
+      ],
+      "image": "/images/projects/sleeper-raised-beds/after-1.webp",
+      "thumb": "/images/projects/sleeper-raised-beds/after-1-sm.webp",
+      "beforeImage": "/images/projects/sleeper-raised-beds/before-1.webp",
+      "afterImage": "/images/projects/sleeper-raised-beds/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/sleeper-raised-beds/before-1.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/sleeper-raised-beds/before-2.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/sleeper-raised-beds/during-1.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/sleeper-raised-beds/during-2.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/sleeper-raised-beds/after-1.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/sleeper-raised-beds/after-2.webp",
+          "thumb": "/images/projects/sleeper-raised-beds/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "brick-boundary-wall",
+      "title": "Brick Boundary Wall with Piers and Copings",
+      "category": "Brickwork",
+      "serviceSlug": "brickwork",
+      "featured": false,
+      "summary": "A new brick boundary wall with piers, copings and a planted bed behind.",
+      "details": "Built in a yellow stock brick chosen to sit with the local housing, the wall is laid with regular piers, capped with copings and backed by a raised bed. It gives the frontage a defined edge without closing the garden in.",
+      "highlights": [
+        "Yellow stock brick to suit the street",
+        "Regular piers with coping capping",
+        "Raised planted bed behind the wall",
+        "Defined frontage that keeps the light"
+      ],
+      "tags": [
+        "Brickwork",
+        "Boundary wall",
+        "Front garden"
+      ],
+      "image": "/images/projects/brick-boundary-wall/after-1.webp",
+      "thumb": "/images/projects/brick-boundary-wall/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/brick-boundary-wall/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/brick-boundary-wall/after-1.webp",
+          "thumb": "/images/projects/brick-boundary-wall/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/brick-boundary-wall/after-2.webp",
+          "thumb": "/images/projects/brick-boundary-wall/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/brick-boundary-wall/after-3.webp",
+          "thumb": "/images/projects/brick-boundary-wall/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "large-sandstone-terrace",
+      "title": "Full-Width Sandstone Terrace for a Family House",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "A full-width buff sandstone terrace wrapping the rear of a large family house.",
+      "details": "Lawn ran straight up to the building with no usable seating area. We stripped and excavated the full width, built up the sub-base and laid buff Indian sandstone in a random-coursed pattern, returning it around the corner of the house and finishing with a straight edge against the reinstated lawn.",
+      "highlights": [
+        "Random-coursed buff Indian sandstone",
+        "Terrace returns around the building",
+        "Full excavation and sub-base build-up",
+        "Lawn reinstated to a clean paving edge"
+      ],
+      "tags": [
+        "Sandstone",
+        "Terrace",
+        "Family garden"
+      ],
+      "image": "/images/projects/large-sandstone-terrace/after-1.webp",
+      "thumb": "/images/projects/large-sandstone-terrace/after-1-sm.webp",
+      "beforeImage": "/images/projects/large-sandstone-terrace/before-1.webp",
+      "afterImage": "/images/projects/large-sandstone-terrace/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/large-sandstone-terrace/before-1.webp",
+          "thumb": "/images/projects/large-sandstone-terrace/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/large-sandstone-terrace/during-1.webp",
+          "thumb": "/images/projects/large-sandstone-terrace/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/large-sandstone-terrace/after-1.webp",
+          "thumb": "/images/projects/large-sandstone-terrace/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/large-sandstone-terrace/after-2.webp",
+          "thumb": "/images/projects/large-sandstone-terrace/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/large-sandstone-terrace/after-3.webp",
+          "thumb": "/images/projects/large-sandstone-terrace/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "lawn-stepping-stone-path",
+      "title": "Porcelain Stepping Stones Through a New Lawn",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": true,
+      "summary": "A tired lawn replaced with fresh turf, a porcelain terrace and oversized stepping stones down the garden.",
+      "details": "The brief was a clean, calm garden that still reads as mostly lawn. We laid a light porcelain terrace by the house, set large-format stepping stones flush into new turf so a mower can pass straight over them, and kept the planting to the boundaries.",
+      "highlights": [
+        "Stepping stones set flush for mowing",
+        "Large-format porcelain terrace",
+        "New turf laid across the garden",
+        "Simple, uncluttered layout"
+      ],
+      "tags": [
+        "Porcelain",
+        "Turf",
+        "Stepping stones"
+      ],
+      "image": "/images/projects/lawn-stepping-stone-path/after-1.webp",
+      "thumb": "/images/projects/lawn-stepping-stone-path/after-1-sm.webp",
+      "beforeImage": "/images/projects/lawn-stepping-stone-path/before-1.webp",
+      "afterImage": "/images/projects/lawn-stepping-stone-path/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/before-1.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/during-1.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/during-2.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/after-1.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/after-2.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/lawn-stepping-stone-path/after-3.webp",
+          "thumb": "/images/projects/lawn-stepping-stone-path/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "victorian-tiled-front-path",
+      "title": "Black and White Tiled Front Path with Brick Walls",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": false,
+      "summary": "A worn front approach rebuilt with brick walls, a bin store recess and a black and white tiled path.",
+      "details": "The frontage had no boundary and a failing concrete path. We built low brick walls with piers to define the garden and screen the bins, then laid a traditional black and white tiled path with a dark border, finished to the original front step.",
+      "highlights": [
+        "Low brick walls with piers",
+        "Screened recess for bins",
+        "Black and white tile with dark border",
+        "Finished neatly to the original step"
+      ],
+      "tags": [
+        "Brickwork",
+        "Victorian tiles",
+        "Front garden"
+      ],
+      "image": "/images/projects/victorian-tiled-front-path/after-1.webp",
+      "thumb": "/images/projects/victorian-tiled-front-path/after-1-sm.webp",
+      "beforeImage": "/images/projects/victorian-tiled-front-path/before-1.webp",
+      "afterImage": "/images/projects/victorian-tiled-front-path/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/victorian-tiled-front-path/before-1.webp",
+          "thumb": "/images/projects/victorian-tiled-front-path/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/victorian-tiled-front-path/during-1.webp",
+          "thumb": "/images/projects/victorian-tiled-front-path/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/victorian-tiled-front-path/during-2.webp",
+          "thumb": "/images/projects/victorian-tiled-front-path/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/victorian-tiled-front-path/after-1.webp",
+          "thumb": "/images/projects/victorian-tiled-front-path/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "garden-deck-rebuild",
+      "title": "Rotten Deck Stripped Back and Rebuilt",
+      "category": "Decking",
+      "serviceSlug": "decking",
+      "featured": true,
+      "summary": "A rotten, uneven deck stripped back to nothing and rebuilt across the full width of the garden.",
+      "details": "The original boards had failed and the frame underneath had gone with them. We took the lot out, built a new treated frame with proper joist spacing and ventilation, and laid new boards running the length of the garden to make the space feel longer.",
+      "highlights": [
+        "Old frame and boards fully removed",
+        "New treated frame with correct joist centres",
+        "Boards run lengthways to lengthen the space",
+        "Ventilation designed into the structure"
+      ],
+      "tags": [
+        "Decking",
+        "Rebuild",
+        "Timber"
+      ],
+      "image": "/images/projects/garden-deck-rebuild/after-1.webp",
+      "thumb": "/images/projects/garden-deck-rebuild/after-1-sm.webp",
+      "beforeImage": "/images/projects/garden-deck-rebuild/before-1.webp",
+      "afterImage": "/images/projects/garden-deck-rebuild/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/garden-deck-rebuild/before-1.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/garden-deck-rebuild/before-2.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/garden-deck-rebuild/during-1.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/garden-deck-rebuild/during-2.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/garden-deck-rebuild/after-1.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/garden-deck-rebuild/after-2.webp",
+          "thumb": "/images/projects/garden-deck-rebuild/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "corner-deck-lawn",
+      "title": "Corner Deck Built Off the Garden Doors",
+      "category": "Decking",
+      "serviceSlug": "decking",
+      "featured": false,
+      "summary": "A wraparound corner deck built off the garden doors of a rear extension.",
+      "details": "The lawn met the extension at an awkward level. We built a low corner deck that steps down to the grass, sized so a table and chairs sit comfortably outside the doors without eating into the lawn.",
+      "highlights": [
+        "Built to meet the door threshold level",
+        "Wraps the corner of the extension",
+        "Steps down cleanly to the lawn",
+        "Sized around outdoor dining"
+      ],
+      "tags": [
+        "Decking",
+        "Levels",
+        "Extension"
+      ],
+      "image": "/images/projects/corner-deck-lawn/after-1.webp",
+      "thumb": "/images/projects/corner-deck-lawn/after-1-sm.webp",
+      "beforeImage": "/images/projects/corner-deck-lawn/before-1.webp",
+      "afterImage": "/images/projects/corner-deck-lawn/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/corner-deck-lawn/before-1.webp",
+          "thumb": "/images/projects/corner-deck-lawn/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/corner-deck-lawn/before-2.webp",
+          "thumb": "/images/projects/corner-deck-lawn/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/corner-deck-lawn/after-1.webp",
+          "thumb": "/images/projects/corner-deck-lawn/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/corner-deck-lawn/after-2.webp",
+          "thumb": "/images/projects/corner-deck-lawn/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "riven-sandstone-courtyard",
+      "title": "Cleared Courtyard Rebuilt in Riven Sandstone",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "A courtyard full of rubble and broken slabs cleared and relaid in riven sandstone with sleeper beds.",
+      "details": "Everything came out first — old paving, broken concrete and years of debris. We reset the levels, laid riven Indian sandstone in a mixed-size pattern and built sleeper beds along two boundaries to give the courtyard some planting and soften the fences.",
+      "highlights": [
+        "Full clearance of rubble and old paving",
+        "Mixed-size riven sandstone pattern",
+        "Sleeper beds on two boundaries",
+        "Levels reset across the whole courtyard"
+      ],
+      "tags": [
+        "Sandstone",
+        "Clearance",
+        "Sleepers"
+      ],
+      "image": "/images/projects/riven-sandstone-courtyard/after-1.webp",
+      "thumb": "/images/projects/riven-sandstone-courtyard/after-1-sm.webp",
+      "beforeImage": "/images/projects/riven-sandstone-courtyard/before-1.webp",
+      "afterImage": "/images/projects/riven-sandstone-courtyard/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/riven-sandstone-courtyard/before-1.webp",
+          "thumb": "/images/projects/riven-sandstone-courtyard/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/riven-sandstone-courtyard/during-1.webp",
+          "thumb": "/images/projects/riven-sandstone-courtyard/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/riven-sandstone-courtyard/after-1.webp",
+          "thumb": "/images/projects/riven-sandstone-courtyard/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/riven-sandstone-courtyard/after-2.webp",
+          "thumb": "/images/projects/riven-sandstone-courtyard/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "curved-path-brick-edging",
+      "title": "Curved Garden Path with Brick Soldier Edging",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": false,
+      "summary": "A curved garden path in grey paving with a brick soldier-course edge.",
+      "details": "The path sweeps from the terrace down the garden, edged on both sides with a brick soldier course that holds the curve and restrains the paving. Cuts were set out so the curve reads smoothly rather than as a series of straight runs.",
+      "highlights": [
+        "Brick soldier course to both edges",
+        "Curve set out before any cutting",
+        "Grey paving to match the terrace",
+        "Restrained edge that holds the line"
+      ],
+      "tags": [
+        "Paving",
+        "Brickwork",
+        "Path"
+      ],
+      "image": "/images/projects/curved-path-brick-edging/after-1.webp",
+      "thumb": "/images/projects/curved-path-brick-edging/after-1-sm.webp",
+      "beforeImage": "/images/projects/curved-path-brick-edging/before-1.webp",
+      "afterImage": "/images/projects/curved-path-brick-edging/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/curved-path-brick-edging/before-1.webp",
+          "thumb": "/images/projects/curved-path-brick-edging/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/curved-path-brick-edging/during-1.webp",
+          "thumb": "/images/projects/curved-path-brick-edging/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/curved-path-brick-edging/after-1.webp",
+          "thumb": "/images/projects/curved-path-brick-edging/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/curved-path-brick-edging/after-2.webp",
+          "thumb": "/images/projects/curved-path-brick-edging/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "family-garden-porcelain-sleepers",
+      "title": "Family Garden with Porcelain Terrace and Sleeper Beds",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A cluttered family garden reorganised around a porcelain terrace and sleeper-edged planting beds.",
+      "details": "The garden had grown into a patchwork of borders, toys and worn grass with no clear seating area. We set out a proper terrace off the house in light porcelain, contained the planting in sleeper-edged beds and left a clear, usable lawn in between.",
+      "highlights": [
+        "Clear terrace, bed and lawn zones",
+        "Sleeper-edged beds hold the planting",
+        "Light porcelain terrace off the house",
+        "Membrane and topsoil renewed in the beds"
+      ],
+      "tags": [
+        "Porcelain",
+        "Sleepers",
+        "Family garden"
+      ],
+      "image": "/images/projects/family-garden-porcelain-sleepers/after-1.webp",
+      "thumb": "/images/projects/family-garden-porcelain-sleepers/after-1-sm.webp",
+      "beforeImage": "/images/projects/family-garden-porcelain-sleepers/before-1.webp",
+      "afterImage": "/images/projects/family-garden-porcelain-sleepers/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/family-garden-porcelain-sleepers/before-1.webp",
+          "thumb": "/images/projects/family-garden-porcelain-sleepers/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/family-garden-porcelain-sleepers/during-1.webp",
+          "thumb": "/images/projects/family-garden-porcelain-sleepers/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/family-garden-porcelain-sleepers/during-2.webp",
+          "thumb": "/images/projects/family-garden-porcelain-sleepers/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/family-garden-porcelain-sleepers/during-3.webp",
+          "thumb": "/images/projects/family-garden-porcelain-sleepers/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/family-garden-porcelain-sleepers/after-1.webp",
+          "thumb": "/images/projects/family-garden-porcelain-sleepers/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "overgrown-front-to-walled-patio",
+      "title": "Overgrown Frontage Turned into a Walled Paved Garden",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A completely overgrown frontage cleared and rebuilt as a walled, paved garden.",
+      "details": "The front garden had disappeared under self-seeded shrubs and a collapsing retaining edge. We cleared it entirely, rebuilt the retaining structure in brick, and paved the level area so it works as usable space rather than neglected planting.",
+      "highlights": [
+        "Complete clearance of overgrown planting",
+        "Brick retaining rebuilt on the boundary",
+        "Level paved area created",
+        "Frontage made usable and maintainable"
+      ],
+      "tags": [
+        "Clearance",
+        "Brickwork",
+        "Front garden"
+      ],
+      "image": "/images/projects/overgrown-front-to-walled-patio/after-1.webp",
+      "thumb": "/images/projects/overgrown-front-to-walled-patio/after-1-sm.webp",
+      "beforeImage": "/images/projects/overgrown-front-to-walled-patio/before-1.webp",
+      "afterImage": "/images/projects/overgrown-front-to-walled-patio/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/before-1.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/before-2.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/before-3.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/before-3-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/before-4.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/before-4-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/during-1.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/overgrown-front-to-walled-patio/after-1.webp",
+          "thumb": "/images/projects/overgrown-front-to-walled-patio/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "pergola-porcelain-garden",
+      "title": "Rear Garden Rebuilt with Pergola, Porcelain and Sleeper Beds",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": false,
+      "summary": "A plain rectangular garden rebuilt with a porcelain terrace, sleeper beds and a timber pergola.",
+      "details": "We reset the whole garden: new paving across the terrace, sleeper-edged beds along the boundaries and a timber pergola over the seating area to give it some height and shelter. New fencing ties the boundaries together.",
+      "highlights": [
+        "Timber pergola over the seating area",
+        "Sleeper-edged boundary beds",
+        "Porcelain terrace across the width",
+        "Boundaries refenced to match"
+      ],
+      "tags": [
+        "Pergola",
+        "Porcelain",
+        "Sleepers"
+      ],
+      "image": "/images/projects/pergola-porcelain-garden/after-1.webp",
+      "thumb": "/images/projects/pergola-porcelain-garden/after-1-sm.webp",
+      "beforeImage": "/images/projects/pergola-porcelain-garden/before-1.webp",
+      "afterImage": "/images/projects/pergola-porcelain-garden/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/pergola-porcelain-garden/before-1.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/before-2.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/during-1.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/during-2.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/after-1.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/after-2.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/pergola-porcelain-garden/after-3.webp",
+          "thumb": "/images/projects/pergola-porcelain-garden/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "brick-wall-drive-frontage",
+      "title": "Front Drive Frontage with New Brick Walls",
+      "category": "Driveways",
+      "serviceSlug": "driveways",
+      "featured": false,
+      "summary": "A frontage rebuilt with new brick walls and piers around a resurfaced drive.",
+      "details": "The old boundary had failed and the drive edge was breaking up. We rebuilt the walls in brick with piers at the openings, set new edging to contain the surface, and resurfaced the drive to a clean line against the pavement.",
+      "highlights": [
+        "Brick walls with piers at the entrance",
+        "New edge restraint to the drive",
+        "Resurfaced to a clean pavement line",
+        "Levels corrected across the frontage"
+      ],
+      "tags": [
+        "Brickwork",
+        "Driveway",
+        "Frontage"
+      ],
+      "image": "/images/projects/brick-wall-drive-frontage/after-1.webp",
+      "thumb": "/images/projects/brick-wall-drive-frontage/after-1-sm.webp",
+      "beforeImage": "/images/projects/brick-wall-drive-frontage/before-1.webp",
+      "afterImage": "/images/projects/brick-wall-drive-frontage/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/brick-wall-drive-frontage/before-1.webp",
+          "thumb": "/images/projects/brick-wall-drive-frontage/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/brick-wall-drive-frontage/after-1.webp",
+          "thumb": "/images/projects/brick-wall-drive-frontage/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/brick-wall-drive-frontage/after-2.webp",
+          "thumb": "/images/projects/brick-wall-drive-frontage/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/brick-wall-drive-frontage/after-3.webp",
+          "thumb": "/images/projects/brick-wall-drive-frontage/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "closeboard-fencing-replacement",
+      "title": "Full Boundary Replaced with Closeboard Fencing",
+      "category": "Fencing",
+      "serviceSlug": "fencing",
+      "featured": true,
+      "summary": "A leaning, gappy boundary replaced with closeboard fencing on concrete posts and gravel boards.",
+      "details": "The old fence had rotted at ground level and was leaning into the garden. We took out the full run, set concrete posts, fitted gravel boards to keep the timber off the soil and installed closeboard panels to a consistent height and line.",
+      "highlights": [
+        "Concrete posts and gravel boards",
+        "Closeboard panels to a consistent line",
+        "Timber kept clear of ground contact",
+        "Old fence and waste removed"
+      ],
+      "tags": [
+        "Fencing",
+        "Closeboard",
+        "Boundary"
+      ],
+      "image": "/images/projects/closeboard-fencing-replacement/after-1.webp",
+      "thumb": "/images/projects/closeboard-fencing-replacement/after-1-sm.webp",
+      "beforeImage": "/images/projects/closeboard-fencing-replacement/before-1.webp",
+      "afterImage": "/images/projects/closeboard-fencing-replacement/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/before-1.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/before-2.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/during-1.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/during-2.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/after-1.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/closeboard-fencing-replacement/after-2.webp",
+          "thumb": "/images/projects/closeboard-fencing-replacement/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "indian-sandstone-driveway",
+      "title": "Multi-Tone Indian Sandstone Driveway and Frontage",
+      "category": "Driveways",
+      "serviceSlug": "driveways",
+      "featured": true,
+      "summary": "A multi-tone Indian sandstone driveway and frontage laid in a random pattern.",
+      "details": "Laid in a random-coursed pattern across the full frontage, the sandstone runs from the pavement to the garage and door thresholds with a block edge restraint. The mixed tones were set out on the ground before laying so the colour spreads evenly across the drive.",
+      "highlights": [
+        "Random-coursed multi-tone sandstone",
+        "Colour set out before laying",
+        "Block edge restraint throughout",
+        "Runs cleanly to garage and door thresholds"
+      ],
+      "tags": [
+        "Sandstone",
+        "Driveway",
+        "Frontage"
+      ],
+      "image": "/images/projects/indian-sandstone-driveway/after-1.webp",
+      "thumb": "/images/projects/indian-sandstone-driveway/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/indian-sandstone-driveway/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/indian-sandstone-driveway/after-1.webp",
+          "thumb": "/images/projects/indian-sandstone-driveway/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/indian-sandstone-driveway/after-2.webp",
+          "thumb": "/images/projects/indian-sandstone-driveway/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/indian-sandstone-driveway/after-3.webp",
+          "thumb": "/images/projects/indian-sandstone-driveway/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/indian-sandstone-driveway/after-4.webp",
+          "thumb": "/images/projects/indian-sandstone-driveway/after-4-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "communal-steps-block-paving",
+      "title": "Communal Steps, Handrails and Block-Paved Approach",
+      "category": "Brickwork",
+      "serviceSlug": "brickwork",
+      "featured": false,
+      "summary": "Communal steps rebuilt with handrails and a block-paved approach for a residential block.",
+      "details": "A wide public flight serving flats, rebuilt with consistent risers, new handrails to both sides and a block-paved landing and approach. The banks either side were regraded and prepared for planting.",
+      "highlights": [
+        "Consistent riser heights across the flight",
+        "Handrails to both sides",
+        "Block-paved landing and approach",
+        "Banks regraded and prepared"
+      ],
+      "tags": [
+        "Steps",
+        "Block paving",
+        "Communal"
+      ],
+      "image": "/images/projects/communal-steps-block-paving/after-1.webp",
+      "thumb": "/images/projects/communal-steps-block-paving/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/communal-steps-block-paving/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/communal-steps-block-paving/during-1.webp",
+          "thumb": "/images/projects/communal-steps-block-paving/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/communal-steps-block-paving/during-2.webp",
+          "thumb": "/images/projects/communal-steps-block-paving/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/communal-steps-block-paving/after-1.webp",
+          "thumb": "/images/projects/communal-steps-block-paving/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "dropped-kerb-driveway",
+      "title": "Dropped Kerb and Block-Paved Parking",
+      "category": "Driveways",
+      "serviceSlug": "driveways",
+      "featured": false,
+      "summary": "A dropped kerb formed and a block-paved parking area laid to the frontage.",
+      "details": "Kerbs were dropped and the crossing formed to give vehicle access, then the parking area was excavated, edged and block paved. The work was signed and coned throughout to keep the footway safe while it was open.",
+      "highlights": [
+        "Dropped kerb and vehicle crossing formed",
+        "Block paving with edge restraint",
+        "Footway kept coned and safe",
+        "Levels tied into the existing pavement"
+      ],
+      "tags": [
+        "Driveway",
+        "Block paving",
+        "Dropped kerb"
+      ],
+      "image": "/images/projects/dropped-kerb-driveway/after-1.webp",
+      "thumb": "/images/projects/dropped-kerb-driveway/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/dropped-kerb-driveway/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/dropped-kerb-driveway/during-1.webp",
+          "thumb": "/images/projects/dropped-kerb-driveway/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/dropped-kerb-driveway/during-2.webp",
+          "thumb": "/images/projects/dropped-kerb-driveway/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/dropped-kerb-driveway/during-3.webp",
+          "thumb": "/images/projects/dropped-kerb-driveway/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/dropped-kerb-driveway/after-1.webp",
+          "thumb": "/images/projects/dropped-kerb-driveway/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "lawn-care-striping",
+      "title": "Seasonal Lawn Care on a Large Country Garden",
+      "category": "Garden Maintenance",
+      "serviceSlug": "garden-maintenance",
+      "featured": false,
+      "summary": "Seasonal cutting, edging and striping on a large country lawn.",
+      "details": "A regular maintenance visit on a big open lawn: cut to a consistent height, striped in clean lines, edges cut back to the borders and the terrace blown down and left clear.",
+      "highlights": [
+        "Consistent cut height across the lawn",
+        "Striped in clean, straight lines",
+        "Edges cut back to the borders",
+        "Terrace blown down and left clear"
+      ],
+      "tags": [
+        "Lawn care",
+        "Maintenance",
+        "Striping"
+      ],
+      "image": "/images/projects/lawn-care-striping/after-1.webp",
+      "thumb": "/images/projects/lawn-care-striping/after-1-sm.webp",
+      "beforeImage": "/images/projects/lawn-care-striping/before-1.webp",
+      "afterImage": "/images/projects/lawn-care-striping/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/lawn-care-striping/before-1.webp",
+          "thumb": "/images/projects/lawn-care-striping/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/lawn-care-striping/during-1.webp",
+          "thumb": "/images/projects/lawn-care-striping/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/lawn-care-striping/after-1.webp",
+          "thumb": "/images/projects/lawn-care-striping/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/lawn-care-striping/after-2.webp",
+          "thumb": "/images/projects/lawn-care-striping/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "digger-strip-porcelain-artificial-lawn",
+      "title": "Stripped Back to Sub-Base: Porcelain Terrace and Artificial Lawn",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A garden taken back to sub-base by machine and rebuilt with a porcelain terrace and artificial lawn.",
+      "details": "The whole garden came out — turf, borders and old edging — under a mini digger. We rebuilt from the sub-base up with a light porcelain terrace across the width, an artificial lawn laid to a permeable base, and sleeper edging holding the two apart.",
+      "highlights": [
+        "Machine strip-out to sub-base",
+        "Porcelain terrace across the full width",
+        "Artificial lawn on a permeable base",
+        "Sleeper edge between paving and turf"
+      ],
+      "tags": [
+        "Porcelain",
+        "Artificial grass",
+        "Excavation",
+        "Full rebuild"
+      ],
+      "image": "/images/projects/digger-strip-porcelain-artificial-lawn/after-1.webp",
+      "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/after-1-sm.webp",
+      "beforeImage": "/images/projects/digger-strip-porcelain-artificial-lawn/before-1.webp",
+      "afterImage": "/images/projects/digger-strip-porcelain-artificial-lawn/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/before-1.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/before-2.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/during-1.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/during-2.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/during-3.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/during-3-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/after-1.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/after-2.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/digger-strip-porcelain-artificial-lawn/after-3.webp",
+          "thumb": "/images/projects/digger-strip-porcelain-artificial-lawn/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "artificial-lawn-porcelain-patio",
+      "title": "Tired Lawn Replaced with Artificial Grass and Porcelain",
+      "category": "Artificial Grass",
+      "serviceSlug": "artificial-grass",
+      "featured": true,
+      "summary": "A worn, patchy lawn replaced with artificial grass and a porcelain patio for a low-maintenance garden.",
+      "details": "The grass had thinned to bare soil under mature trees and the old patio was breaking up. We removed both, laid a permeable base for artificial turf and paved a new seating area in porcelain with a timber edge between the two.",
+      "highlights": [
+        "Works under mature trees where grass failed",
+        "Permeable base under the turf",
+        "Porcelain seating area off the house",
+        "Timber edge between turf and paving"
+      ],
+      "tags": [
+        "Artificial grass",
+        "Porcelain",
+        "Low maintenance"
+      ],
+      "image": "/images/projects/artificial-lawn-porcelain-patio/after-1.webp",
+      "thumb": "/images/projects/artificial-lawn-porcelain-patio/after-1-sm.webp",
+      "beforeImage": "/images/projects/artificial-lawn-porcelain-patio/before-1.webp",
+      "afterImage": "/images/projects/artificial-lawn-porcelain-patio/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/before-1.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/before-2.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/before-3.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/before-3-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/before-4.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/before-4-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/after-1.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/after-2.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-porcelain-patio/after-3.webp",
+          "thumb": "/images/projects/artificial-lawn-porcelain-patio/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "front-path-steps-railings",
+      "title": "Front Path, Steps and Railings in Silver Sandstone",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": true,
+      "summary": "A gravel and weed frontage rebuilt with silver sandstone paving, new steps and reinstated railings.",
+      "details": "The front garden was loose gravel and failing timber edging. We excavated, laid silver-grey sandstone across the whole frontage, formed new steps up to the front door and reinstated the railings and gate against the rebuilt brick.",
+      "highlights": [
+        "Silver-grey sandstone across the frontage",
+        "New steps up to the front door",
+        "Railings and gate reinstated",
+        "Brick edge rebuilt to the boundary"
+      ],
+      "tags": [
+        "Sandstone",
+        "Front garden",
+        "Steps",
+        "Railings"
+      ],
+      "image": "/images/projects/front-path-steps-railings/after-1.webp",
+      "thumb": "/images/projects/front-path-steps-railings/after-1-sm.webp",
+      "beforeImage": "/images/projects/front-path-steps-railings/before-1.webp",
+      "afterImage": "/images/projects/front-path-steps-railings/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/front-path-steps-railings/before-1.webp",
+          "thumb": "/images/projects/front-path-steps-railings/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/during-1.webp",
+          "thumb": "/images/projects/front-path-steps-railings/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/during-2.webp",
+          "thumb": "/images/projects/front-path-steps-railings/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/after-1.webp",
+          "thumb": "/images/projects/front-path-steps-railings/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/after-2.webp",
+          "thumb": "/images/projects/front-path-steps-railings/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/after-3.webp",
+          "thumb": "/images/projects/front-path-steps-railings/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/front-path-steps-railings/after-4.webp",
+          "thumb": "/images/projects/front-path-steps-railings/after-4-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "circular-feature-patio",
+      "title": "Circular Feature Patio in a Large Country Garden",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "A large country garden given a circular feature patio set into the lawn.",
+      "details": "Cut into an open lawn and reached by a wide paved path, the circle is set out from a centre point with cut radial courses and a full border ring. Levels were worked so the mower can run straight over the edge.",
+      "highlights": [
+        "Circle set out from a fixed centre point",
+        "Cut radial courses with a border ring",
+        "Wide paved path to the terrace",
+        "Mower-height edge into the lawn"
+      ],
+      "tags": [
+        "Patio",
+        "Circle feature",
+        "Country garden"
+      ],
+      "image": "/images/projects/circular-feature-patio/after-1.webp",
+      "thumb": "/images/projects/circular-feature-patio/after-1-sm.webp",
+      "beforeImage": "/images/projects/circular-feature-patio/before-1.webp",
+      "afterImage": "/images/projects/circular-feature-patio/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/circular-feature-patio/before-1.webp",
+          "thumb": "/images/projects/circular-feature-patio/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/circular-feature-patio/before-2.webp",
+          "thumb": "/images/projects/circular-feature-patio/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/circular-feature-patio/during-1.webp",
+          "thumb": "/images/projects/circular-feature-patio/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/circular-feature-patio/after-1.webp",
+          "thumb": "/images/projects/circular-feature-patio/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/circular-feature-patio/after-2.webp",
+          "thumb": "/images/projects/circular-feature-patio/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "long-porcelain-path",
+      "title": "Long Porcelain Path Beside a New Lawn",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": false,
+      "summary": "A long porcelain path running the length of the garden beside a new lawn.",
+      "details": "A single-width run of large-format porcelain set between the building and a new lawn, edged both sides and laid to fall away from the wall so water runs into the grass rather than back into the structure.",
+      "highlights": [
+        "Large-format porcelain in a single run",
+        "Edged and restrained both sides",
+        "Falls set away from the building",
+        "New lawn laid to the paving edge"
+      ],
+      "tags": [
+        "Porcelain",
+        "Path",
+        "Drainage"
+      ],
+      "image": "/images/projects/long-porcelain-path/after-1.webp",
+      "thumb": "/images/projects/long-porcelain-path/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/long-porcelain-path/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/long-porcelain-path/during-1.webp",
+          "thumb": "/images/projects/long-porcelain-path/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/long-porcelain-path/after-1.webp",
+          "thumb": "/images/projects/long-porcelain-path/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "charcoal-terrace-new-boundary",
+      "title": "Charcoal Porcelain Terrace and New Boundary",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": true,
+      "summary": "A derelict side garden cleared and rebuilt as a charcoal porcelain terrace behind a new timber boundary.",
+      "details": "The area was rubble, self-seeded growth and a failed boundary. We cleared and disposed of the lot, laid a large-format charcoal porcelain terrace with a brick border and built a new slatted timber boundary along the open side.",
+      "highlights": [
+        "Full clearance and waste removal",
+        "Large-format charcoal porcelain",
+        "Brick border to the paving edge",
+        "New slatted timber boundary"
+      ],
+      "tags": [
+        "Porcelain",
+        "Clearance",
+        "Boundary"
+      ],
+      "image": "/images/projects/charcoal-terrace-new-boundary/after-1.webp",
+      "thumb": "/images/projects/charcoal-terrace-new-boundary/after-1-sm.webp",
+      "beforeImage": "/images/projects/charcoal-terrace-new-boundary/before-1.webp",
+      "afterImage": "/images/projects/charcoal-terrace-new-boundary/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/charcoal-terrace-new-boundary/before-1.webp",
+          "thumb": "/images/projects/charcoal-terrace-new-boundary/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/charcoal-terrace-new-boundary/after-1.webp",
+          "thumb": "/images/projects/charcoal-terrace-new-boundary/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/charcoal-terrace-new-boundary/after-2.webp",
+          "thumb": "/images/projects/charcoal-terrace-new-boundary/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "gravel-garden-pergola",
+      "title": "Overgrown Plot Turned into a Low-Maintenance Gravel Garden",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A garden lost to brambles turned into a low-maintenance gravel garden with a pergola and seating.",
+      "details": "The plot was completely overgrown and hadn't been usable for years. We cleared it back to bare ground, laid membrane and decorative gravel either side of a dark paved path, and built a timber pergola over a seating area at the far end.",
+      "highlights": [
+        "Cleared from fully overgrown",
+        "Membrane and decorative gravel",
+        "Dark paved path through the centre",
+        "Timber pergola over the seating area"
+      ],
+      "tags": [
+        "Gravel garden",
+        "Pergola",
+        "Low maintenance",
+        "Clearance"
+      ],
+      "image": "/images/projects/gravel-garden-pergola/after-1.webp",
+      "thumb": "/images/projects/gravel-garden-pergola/after-1-sm.webp",
+      "beforeImage": "/images/projects/gravel-garden-pergola/before-1.webp",
+      "afterImage": "/images/projects/gravel-garden-pergola/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/gravel-garden-pergola/before-1.webp",
+          "thumb": "/images/projects/gravel-garden-pergola/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/gravel-garden-pergola/before-2.webp",
+          "thumb": "/images/projects/gravel-garden-pergola/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/gravel-garden-pergola/after-1.webp",
+          "thumb": "/images/projects/gravel-garden-pergola/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/gravel-garden-pergola/after-2.webp",
+          "thumb": "/images/projects/gravel-garden-pergola/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "side-path-gravel-paving",
+      "title": "Side Return Paved with Gravel Borders and Gate",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": false,
+      "summary": "A side return paved with gravel margins, a new gate and a planted feature.",
+      "details": "A narrow, awkward side return made usable: paving down the centre for access, gravel margins either side to take the run-off, a new post-set gate at the entrance and a small planted feature to break up the length.",
+      "highlights": [
+        "Paved centre run with gravel margins",
+        "New gate on set posts",
+        "Run-off taken into the gravel",
+        "Planted feature to break the length"
+      ],
+      "tags": [
+        "Paving",
+        "Side return",
+        "Gravel",
+        "Gate"
+      ],
+      "image": "/images/projects/side-path-gravel-paving/after-1.webp",
+      "thumb": "/images/projects/side-path-gravel-paving/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/side-path-gravel-paving/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/side-path-gravel-paving/during-1.webp",
+          "thumb": "/images/projects/side-path-gravel-paving/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/side-path-gravel-paving/during-2.webp",
+          "thumb": "/images/projects/side-path-gravel-paving/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/side-path-gravel-paving/after-1.webp",
+          "thumb": "/images/projects/side-path-gravel-paving/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/side-path-gravel-paving/after-2.webp",
+          "thumb": "/images/projects/side-path-gravel-paving/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "raised-timber-deck-steps",
+      "title": "Raised Timber Deck with Wide Steps to the Lawn",
+      "category": "Decking",
+      "serviceSlug": "decking",
+      "featured": false,
+      "summary": "A raised timber deck with wide steps bridging the level change to the lawn.",
+      "details": "Built off the back of the house on a treated frame and posts, the deck sits level with the internal floor and steps down in wide, shallow treads to the garden. The frame is set out to take furniture without bounce.",
+      "highlights": [
+        "Deck set level with the internal floor",
+        "Wide, shallow steps down to the lawn",
+        "Treated frame on set posts",
+        "Joist centres sized for furniture loads"
+      ],
+      "tags": [
+        "Decking",
+        "Levels",
+        "Steps"
+      ],
+      "image": "/images/projects/raised-timber-deck-steps/after-1.webp",
+      "thumb": "/images/projects/raised-timber-deck-steps/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/raised-timber-deck-steps/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/raised-timber-deck-steps/during-1.webp",
+          "thumb": "/images/projects/raised-timber-deck-steps/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/raised-timber-deck-steps/after-1.webp",
+          "thumb": "/images/projects/raised-timber-deck-steps/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/raised-timber-deck-steps/after-2.webp",
+          "thumb": "/images/projects/raised-timber-deck-steps/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "porcelain-terrace-garden-room",
+      "title": "Old Concrete Base Replaced with a Porcelain Terrace",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": false,
+      "summary": "A cracked concrete base lifted and replaced with a porcelain terrace to a garden room.",
+      "details": "The old concrete slab had cracked and settled unevenly against the building. We broke it out, rebuilt the base with proper compaction and falls, and laid a light porcelain terrace running the full width of the glazing.",
+      "highlights": [
+        "Old concrete slab broken out",
+        "Base rebuilt with proper compaction",
+        "Falls set away from the glazing",
+        "Terrace runs the full width of the doors"
+      ],
+      "tags": [
+        "Porcelain",
+        "Garden room",
+        "Rebuild"
+      ],
+      "image": "/images/projects/porcelain-terrace-garden-room/after-1.webp",
+      "thumb": "/images/projects/porcelain-terrace-garden-room/after-1-sm.webp",
+      "beforeImage": "/images/projects/porcelain-terrace-garden-room/before-1.webp",
+      "afterImage": "/images/projects/porcelain-terrace-garden-room/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/porcelain-terrace-garden-room/before-1.webp",
+          "thumb": "/images/projects/porcelain-terrace-garden-room/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/porcelain-terrace-garden-room/before-2.webp",
+          "thumb": "/images/projects/porcelain-terrace-garden-room/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/porcelain-terrace-garden-room/during-1.webp",
+          "thumb": "/images/projects/porcelain-terrace-garden-room/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/porcelain-terrace-garden-room/after-1.webp",
+          "thumb": "/images/projects/porcelain-terrace-garden-room/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "indian-sandstone-patio-steps",
+      "title": "Indian Sandstone Patio with Planted Steps",
+      "category": "Patios",
+      "serviceSlug": "patios",
+      "featured": false,
+      "summary": "A bare, dug-over garden finished with an Indian sandstone patio and planted steps.",
+      "details": "Laid across the rear of the house in mixed-size Indian sandstone with steps down to the garden and a raised planted bed built into the change of level. Railings were fitted alongside the steps.",
+      "highlights": [
+        "Mixed-size Indian sandstone pattern",
+        "Steps built into the level change",
+        "Raised planted bed to the terrace edge",
+        "Railings fitted to the steps"
+      ],
+      "tags": [
+        "Sandstone",
+        "Steps",
+        "Planting"
+      ],
+      "image": "/images/projects/indian-sandstone-patio-steps/after-1.webp",
+      "thumb": "/images/projects/indian-sandstone-patio-steps/after-1-sm.webp",
+      "beforeImage": "/images/projects/indian-sandstone-patio-steps/before-1.webp",
+      "afterImage": "/images/projects/indian-sandstone-patio-steps/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/indian-sandstone-patio-steps/before-1.webp",
+          "thumb": "/images/projects/indian-sandstone-patio-steps/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/indian-sandstone-patio-steps/after-1.webp",
+          "thumb": "/images/projects/indian-sandstone-patio-steps/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "hot-tub-terrace-sleeper-beds",
+      "title": "Hot Tub Terrace with Sleeper Retaining and New Lawn",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A sloping lawn cut into a level porcelain terrace with sleeper retaining, a hot tub base and reinstated grass.",
+      "details": "The garden fell away from the house, so the terrace had to be cut in and retained. We built sleeper retaining along the new edge, laid a light porcelain terrace sized to take a hot tub and seating, and reinstated the lawn below to a clean line.",
+      "highlights": [
+        "Level terrace cut into a sloping garden",
+        "Sleeper retaining along the new edge",
+        "Base sized and built for a hot tub",
+        "Lawn reinstated to a clean paving edge"
+      ],
+      "tags": [
+        "Porcelain",
+        "Sleepers",
+        "Levels",
+        "Hot tub"
+      ],
+      "image": "/images/projects/hot-tub-terrace-sleeper-beds/after-1.webp",
+      "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/after-1-sm.webp",
+      "beforeImage": "/images/projects/hot-tub-terrace-sleeper-beds/before-1.webp",
+      "afterImage": "/images/projects/hot-tub-terrace-sleeper-beds/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/hot-tub-terrace-sleeper-beds/before-1.webp",
+          "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/hot-tub-terrace-sleeper-beds/before-2.webp",
+          "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/hot-tub-terrace-sleeper-beds/during-1.webp",
+          "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/hot-tub-terrace-sleeper-beds/after-1.webp",
+          "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/hot-tub-terrace-sleeper-beds/after-2.webp",
+          "thumb": "/images/projects/hot-tub-terrace-sleeper-beds/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "composite-deck-garden-doors",
+      "title": "Deck Built Level with the Garden Doors",
+      "category": "Decking",
+      "serviceSlug": "decking",
+      "featured": false,
+      "summary": "A deck built level with the garden doors across the rear of the house.",
+      "details": "Set out to meet the door threshold so there's no step out of the house, the deck runs the full width of the rear elevation with a low step down to the lawn and boards running parallel to the building.",
+      "highlights": [
+        "Threshold-level with no step out",
+        "Runs the full width of the elevation",
+        "Single low step down to the lawn",
+        "Boards run parallel to the house"
+      ],
+      "tags": [
+        "Decking",
+        "Thresholds",
+        "Levels"
+      ],
+      "image": "/images/projects/composite-deck-garden-doors/after-1.webp",
+      "thumb": "/images/projects/composite-deck-garden-doors/after-1-sm.webp",
+      "beforeImage": null,
+      "afterImage": "/images/projects/composite-deck-garden-doors/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/composite-deck-garden-doors/during-1.webp",
+          "thumb": "/images/projects/composite-deck-garden-doors/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/composite-deck-garden-doors/during-2.webp",
+          "thumb": "/images/projects/composite-deck-garden-doors/during-2-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/composite-deck-garden-doors/after-1.webp",
+          "thumb": "/images/projects/composite-deck-garden-doors/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "artificial-lawn-block-edge",
+      "title": "Artificial Lawn with Block Paved Edging",
+      "category": "Artificial Grass",
+      "serviceSlug": "artificial-grass",
+      "featured": false,
+      "summary": "A worn back garden cleared and laid with artificial grass inside a block paved edge.",
+      "details": "The garden was bare earth and clutter. We cleared and disposed of it all, laid a permeable base and installed artificial turf held inside a charcoal block paved edge that also forms the path to the shed.",
+      "highlights": [
+        "Full clearance and waste removal",
+        "Permeable base under the turf",
+        "Charcoal block paved edge restraint",
+        "Edge doubles as the path to the shed"
+      ],
+      "tags": [
+        "Artificial grass",
+        "Block paving",
+        "Clearance"
+      ],
+      "image": "/images/projects/artificial-lawn-block-edge/after-1.webp",
+      "thumb": "/images/projects/artificial-lawn-block-edge/after-1-sm.webp",
+      "beforeImage": "/images/projects/artificial-lawn-block-edge/before-1.webp",
+      "afterImage": "/images/projects/artificial-lawn-block-edge/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/artificial-lawn-block-edge/before-1.webp",
+          "thumb": "/images/projects/artificial-lawn-block-edge/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-block-edge/after-1.webp",
+          "thumb": "/images/projects/artificial-lawn-block-edge/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/artificial-lawn-block-edge/after-2.webp",
+          "thumb": "/images/projects/artificial-lawn-block-edge/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "block-paved-terrace",
+      "title": "Block Paved Terrace with Charcoal Border",
+      "category": "Paths & Paving",
+      "serviceSlug": "paving",
+      "featured": false,
+      "summary": "A worn slab patio and patchy grass replaced with a block paved terrace and charcoal border.",
+      "details": "We took out the old slabs and levelled the area, then laid block paving in a mid-tone mix with a charcoal border and soldier course to define the edges. The paving runs to the doors so the terrace reads as one clean space.",
+      "highlights": [
+        "Mid-tone blocks with a charcoal border",
+        "Soldier course defining the edges",
+        "Old slabs lifted and removed",
+        "Paving runs cleanly to the doors"
+      ],
+      "tags": [
+        "Block paving",
+        "Terrace",
+        "Border detail"
+      ],
+      "image": "/images/projects/block-paved-terrace/after-1.webp",
+      "thumb": "/images/projects/block-paved-terrace/after-1-sm.webp",
+      "beforeImage": "/images/projects/block-paved-terrace/before-1.webp",
+      "afterImage": "/images/projects/block-paved-terrace/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/block-paved-terrace/before-1.webp",
+          "thumb": "/images/projects/block-paved-terrace/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/block-paved-terrace/before-2.webp",
+          "thumb": "/images/projects/block-paved-terrace/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/block-paved-terrace/during-1.webp",
+          "thumb": "/images/projects/block-paved-terrace/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/block-paved-terrace/after-1.webp",
+          "thumb": "/images/projects/block-paved-terrace/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/block-paved-terrace/after-2.webp",
+          "thumb": "/images/projects/block-paved-terrace/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "split-level-patio-deck-steps",
+      "title": "Split-Level Patio, Deck and Brick Steps",
+      "category": "Garden Transformations",
+      "serviceSlug": "garden-transformations",
+      "featured": true,
+      "summary": "A dated split-level garden rebuilt with new paving, a timber deck and brick steps.",
+      "details": "The original terrace, steps and retaining were all failing. We rebuilt the level change in brick with new steps, laid warm-toned paving on the upper terrace and built a timber deck at the lower level, tying the two together off the kitchen doors.",
+      "highlights": [
+        "Level change rebuilt in brick",
+        "New steps between upper and lower levels",
+        "Warm-toned paving on the upper terrace",
+        "Timber deck at the lower level"
+      ],
+      "tags": [
+        "Brickwork",
+        "Decking",
+        "Steps",
+        "Split level"
+      ],
+      "image": "/images/projects/split-level-patio-deck-steps/after-1.webp",
+      "thumb": "/images/projects/split-level-patio-deck-steps/after-1-sm.webp",
+      "beforeImage": "/images/projects/split-level-patio-deck-steps/before-1.webp",
+      "afterImage": "/images/projects/split-level-patio-deck-steps/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/split-level-patio-deck-steps/before-1.webp",
+          "thumb": "/images/projects/split-level-patio-deck-steps/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/split-level-patio-deck-steps/before-2.webp",
+          "thumb": "/images/projects/split-level-patio-deck-steps/before-2-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/split-level-patio-deck-steps/after-1.webp",
+          "thumb": "/images/projects/split-level-patio-deck-steps/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/split-level-patio-deck-steps/after-2.webp",
+          "thumb": "/images/projects/split-level-patio-deck-steps/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/split-level-patio-deck-steps/after-3.webp",
+          "thumb": "/images/projects/split-level-patio-deck-steps/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    },
+    {
+      "id": "slate-porcelain-forecourt",
+      "title": "Blue-Black Porcelain Forecourt and Parking",
+      "category": "Driveways",
+      "serviceSlug": "driveways",
+      "featured": true,
+      "summary": "A tired tarmac frontage relaid as a blue-black porcelain forecourt with block paved margins.",
+      "details": "The frontage served several properties and had broken up along the kerb line. We excavated and rebuilt the base, laid large-format blue-black porcelain across the parking area and picked out the margins and kerb line in contrasting block paving.",
+      "highlights": [
+        "Large-format blue-black porcelain",
+        "Base rebuilt for vehicle loading",
+        "Contrasting block paved margins",
+        "Kerb line reinstated to the road"
+      ],
+      "tags": [
+        "Porcelain",
+        "Driveway",
+        "Forecourt",
+        "Block paving"
+      ],
+      "image": "/images/projects/slate-porcelain-forecourt/after-1.webp",
+      "thumb": "/images/projects/slate-porcelain-forecourt/after-1-sm.webp",
+      "beforeImage": "/images/projects/slate-porcelain-forecourt/before-1.webp",
+      "afterImage": "/images/projects/slate-porcelain-forecourt/after-1.webp",
+      "gallery": [
+        {
+          "src": "/images/projects/slate-porcelain-forecourt/before-1.webp",
+          "thumb": "/images/projects/slate-porcelain-forecourt/before-1-sm.webp",
+          "stage": "before",
+          "label": "Before"
+        },
+        {
+          "src": "/images/projects/slate-porcelain-forecourt/during-1.webp",
+          "thumb": "/images/projects/slate-porcelain-forecourt/during-1-sm.webp",
+          "stage": "during",
+          "label": "In progress"
+        },
+        {
+          "src": "/images/projects/slate-porcelain-forecourt/after-1.webp",
+          "thumb": "/images/projects/slate-porcelain-forecourt/after-1-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/slate-porcelain-forecourt/after-2.webp",
+          "thumb": "/images/projects/slate-porcelain-forecourt/after-2-sm.webp",
+          "stage": "after",
+          "label": "After"
+        },
+        {
+          "src": "/images/projects/slate-porcelain-forecourt/after-3.webp",
+          "thumb": "/images/projects/slate-porcelain-forecourt/after-3-sm.webp",
+          "stage": "after",
+          "label": "After"
+        }
+      ]
+    }
+  ]
+}

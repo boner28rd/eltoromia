@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Harriet Collins",
+    "location": "Caversham, Reading",
+    "rating": 5,
+    "service": "Porcelain patio and raised planters",
+    "text": "Eltoromia turned a damp, awkward slope into a terrace we use almost every evening. The team explained the drainage clearly and the finish around the brick planters is superb.",
+    "date": "March 2026",
+    "featured": true
+  },
+  {
+    "name": "Daniel Mercer",
+    "location": "Marlow, Buckinghamshire",
+    "rating": 5,
+    "service": "Driveway and front path",
+    "text": "The quotation was detailed, the site stayed tidy and the block paving has completely changed the front of the house. Neighbours have already asked who did it.",
+    "date": "February 2026",
+    "featured": true
+  },
+  {
+    "name": "Priya Nair",
+    "location": "Wokingham, Berkshire",
+    "rating": 5,
+    "service": "Garden transformation",
+    "text": "We wanted a grown-up garden that still worked for children. Eltoromia created separate spaces without making it feel fussy. The planting is already settling in beautifully.",
+    "date": "November 2025",
+    "featured": true
+  },
+  {
+    "name": "George Whitfield",
+    "location": "Oxford",
+    "rating": 5,
+    "service": "Fencing and side gate",
+    "text": "Professional from survey to handover. The new slatted fencing is straight, strong and much smarter than the panels it replaced.",
+    "date": "October 2025",
+    "featured": false
+  },
+  {
+    "name": "Nadia Brooks",
+    "location": "Guildford, Surrey",
+    "rating": 5,
+    "service": "Composite decking",
+    "text": "The deck has made our kitchen extension feel complete. The subframe and ventilation were explained properly, which gave us confidence in the build.",
+    "date": "September 2025",
+    "featured": false
+  },
+  {
+    "name": "Simon Avery",
+    "location": "Henley-on-Thames",
+    "rating": 4,
+    "service": "Patio renovation",
+    "text": "A very good experience. Weather delayed the jointing by a couple of days, but communication was excellent and the finished patio looks sharp.",
+    "date": "July 2025",
+    "featured": false
+  },
+  {
+    "name": "Lena Foster",
+    "location": "Basingstoke, Hampshire",
+    "rating": 5,
+    "service": "Brick steps and paving",
+    "text": "The new steps feel safe and look like they have always belonged to the house. Small details were handled with real care.",
+    "date": "June 2025",
+    "featured": false
+  },
+  {
+    "name": "Mark Reynolds",
+    "location": "Maidenhead, Berkshire",
+    "rating": 5,
+    "service": "Outdoor renovation",
+    "text": "Eltoromia helped us prioritise what mattered instead of selling us a full rebuild. The garden is cleaner, easier to use and much more inviting.",
+    "date": "April 2025",
+    "featured": false
+  }
+]

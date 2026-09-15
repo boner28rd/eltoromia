@@ -1,0 +1,9 @@
+[
+  { "label": "Home", "path": "/" },
+  { "label": "About", "path": "/about" },
+  { "label": "Services", "path": "/services" },
+  { "label": "Projects", "path": "/projects" },
+  { "label": "Reviews", "path": "/reviews" },
+  { "label": "FAQs", "path": "/faqs" },
+  { "label": "Contact", "path": "/contact" }
+]

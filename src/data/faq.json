@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How quickly can Eltoromia start a landscaping project?",
+    "answer": "Lead times vary by season and project size. Smaller fencing, paving and repair jobs may be scheduled within a few weeks, while full garden transformations are usually planned several months ahead so surveys, materials and weather windows can be managed properly.",
+    "category": "Planning"
+  },
+  {
+    "question": "Do you provide design drawings before work starts?",
+    "answer": "Yes. For medium and large projects we prepare a structured design pack that can include layout sketches, material recommendations, levels notes, planting direction and a detailed scope. Simple jobs may only need a written specification and marked-up photos.",
+    "category": "Design"
+  },
+  {
+    "question": "Can you help with drainage and uneven garden levels?",
+    "answer": "Yes. Drainage, levels and sub-base preparation are central to our hard landscaping work. We assess falls, water movement, soil conditions and existing surfaces before recommending suitable construction details.",
+    "category": "Construction"
+  },
+  {
+    "question": "What patio and paving materials do you install?",
+    "answer": "We commonly work with porcelain, sandstone, limestone, clay pavers, granite setts and concrete block paving. The best choice depends on the style of the property, budget, maintenance expectations and how the area will be used.",
+    "category": "Materials"
+  },
+  {
+    "question": "Will the team remove waste from site?",
+    "answer": "Yes. Waste removal is included in project planning and priced clearly. Eltoromia uses licensed disposal routes and keeps working areas tidy throughout the build.",
+    "category": "Site"
+  },
+  {
+    "question": "Do you offer workmanship guarantees?",
+    "answer": "Eligible construction elements include a written workmanship guarantee. The details depend on the service, materials and ground conditions, and they are explained before work begins.",
+    "category": "Aftercare"
+  },
+  {
+    "question": "Can you work from my garden designer's plan?",
+    "answer": "Yes. We often collaborate with garden designers, architects and homeowners who already have drawings. We can price the construction scope, advise on technical details and identify any practical issues before installation.",
+    "category": "Design"
+  },
+  {
+    "question": "Do I need planning permission for decking, fencing or patios?",
+    "answer": "Many domestic garden improvements do not need planning permission, but there are exceptions involving height, boundaries, listed buildings, conservation areas and drainage. We can flag common concerns, but formal planning advice should come from the local authority or a qualified consultant.",
+    "category": "Planning"
+  },
+  {
+    "question": "Can you phase a project to suit a budget?",
+    "answer": "Yes. We can create a master plan and phase the construction so key infrastructure, access routes and drainage are installed in a sensible order.",
+    "category": "Budget"
+  }
+]

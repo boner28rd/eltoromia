@@ -1,0 +1,84 @@
+{
+  "source_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#",
+  "rendered_url": "https://www.bark.com/en/gb/b/eltoromia/pbNpz/#",
+  "extracted_at": "2026-05-31T16:21:05.956Z",
+  "profile_id": "pbNpz",
+  "name": "Eltoromia",
+  "location": "KT10, Esher",
+  "service_areas": [
+    {
+      "name": "KT10, Esher",
+      "source": "Bark profile location"
+    }
+  ],
+  "serves_remotely": true,
+  "contact_details": {
+    "direct_phone": null,
+    "direct_email": null,
+    "website": null,
+    "bark_contact_available": true,
+    "bark_request_quote_available": true,
+    "notes": "Bark exposes contact/request quote forms publicly, but no direct phone number, email address, or website URL was visible without submitting a form or logging in."
+  },
+  "contact_form_fields_observed": [
+    "Your phone number",
+    "phone",
+    "Your email address",
+    "email",
+    "contact-time",
+    "I'm available now",
+    "contact-time",
+    "In the evenings",
+    "contact-time",
+    "At the weekends",
+    "Message",
+    "message",
+    "Request callback"
+  ],
+  "logo_url": "https://d1k8hez1mxkuxw.cloudfront.net/s/avatar_v2/GopKYe/logo/68e6d7a211590.jpg!d=Mw6FPX",
+  "categories": [
+    "Gardening",
+    "Landscaping",
+    "Fence & Gate Installation",
+    "Artificial Grass Installation",
+    "Driveway Installation"
+  ],
+  "about": {
+    "lead": "From landscaping design to garden maintenance Eltoromia can provide you with a bespoke service putting years of knowledge and experience into every project we understake leaving you smiling and stress free We are a professional landscape company dedicated to transforming outdoor spaces into thriving, beautiful environments.",
+    "expanded": "With a passion for craft and a commitment to excellence, we deliver landscapes that are not only visually stunning but also sustainable and functional.\n\n(Why Choose Us)\n\n- Highly skilled team with formal training, hands-on experience, and a relentless pursuit of quality\n- With great eye for detail we design and execute with precision, ensuring every element complements the next.\n- Collaborative process we listen closely to your vision, provide expert guidance, and keep you informed at every step\n- Quality and durability we select premium materials and implement proven methods to ensure lasting beauty and functionality\n-Sustainable practices water-wise plantings, smart irrigation, and environmentally responsible maintenance",
+    "full_text": "From landscaping design to garden maintenance Eltoromia can provide you with a bespoke service putting years of knowledge and experience into every project we understake leaving you smiling and stress free We are a professional landscape company dedicated to transforming outdoor spaces into thriving, beautiful environments. With a passion for craft and a commitment to excellence, we deliver landscapes that are not only visually stunning but also sustainable and functional.\n\n(Why Choose Us)\n\n- Highly skilled team with formal training, hands-on experience, and a relentless pursuit of quality\n- With great eye for detail we design and execute with precision, ensuring every element complements the next.\n- Collaborative process we listen closely to your vision, provide expert guidance, and keep you informed at every step\n- Quality and durability we select premium materials and implement proven methods to ensure lasting beauty and functionality\n-Sustainable practices water-wise plantings, smart irrigation, and environmentally responsible maintenance"
+  },
+  "overview": {
+    "verified_business": true,
+    "elite_pro": true,
+    "hires_on_bark": 161,
+    "years_in_business": 20,
+    "response_time": "4 hour response time",
+    "staff_size": "2-10 staff",
+    "services_available_remotely": true
+  },
+  "raw_overview_items": [
+    "Verified business",
+    "Elite Pro",
+    "161 hires on Bark",
+    "20 years in business",
+    "4 hour response time",
+    "2-10 staff",
+    "Services available remotely"
+  ],
+  "source_api_responses": {
+    "https://api.bark.com/sellerprofile/pbNpz/services-available-remotely": {
+      "status": true,
+      "data": {
+        "available_remotely": true
+      }
+    },
+    "https://api.bark.com/sellerprofile/pbNpz/companyinfo": {
+      "status": true,
+      "data": {
+        "company_size": "2-10",
+        "company_age": 20
+      }
+    }
+  }
+}
