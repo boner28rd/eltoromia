@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import ButtonLink from "../ui/ButtonLink.jsx";
+import { asset } from "../../utils/asset.js";
 
 /**
  * Drag-to-reveal comparison of the same garden before and after.
@@ -59,10 +60,10 @@ export default function BeforeAfter({ project, eyebrow = "Before and after" }) {
               className="relative aspect-[4/3] w-full touch-pan-y select-none overflow-hidden rounded-lg bg-charcoal"
               onPointerDown={(event) => { draggingRef.current = true; setFromClientX(event.clientX); }}
             >
-              <img src={project.afterImage} alt={`${project.title}, after`} className="absolute inset-0 h-full w-full object-cover" draggable="false" />
+              <img src={asset(project.afterImage)} alt={`${project.title}, after`} className="absolute inset-0 h-full w-full object-cover" draggable="false" />
               {/* Clipped rather than width-constrained, so the before shot never squashes as the handle moves. */}
               <img
-                src={project.beforeImage}
+                src={asset(project.beforeImage)}
                 alt={`${project.title}, before`}
                 className="absolute inset-0 h-full w-full object-cover"
                 style={{ clipPath: `inset(0 ${100 - position}% 0 0)` }}

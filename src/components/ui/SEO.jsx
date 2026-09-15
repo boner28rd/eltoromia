@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import company from "../../data/company.json";
+import { absoluteAsset } from "../../utils/asset.js";
 
 function upsertMeta(selector, attributes) {
   let element = document.head.querySelector(selector);
@@ -13,7 +14,7 @@ function upsertMeta(selector, attributes) {
 export default function SEO({ title, description, image }) {
   const pageTitle = title || company.seo.title;
   const pageDescription = description || company.seo.description;
-  const ogImage = image || company.hero.image;
+  const ogImage = absoluteAsset(image || company.hero.image);
 
   useEffect(() => {
     document.title = pageTitle;

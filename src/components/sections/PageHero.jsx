@@ -1,9 +1,10 @@
 import ButtonLink from "../ui/ButtonLink.jsx";
+import { asset } from "../../utils/asset.js";
 
 export default function PageHero({ eyebrow, title, text, image, primary, secondary, compact = false }) {
   return (
     <section className={`relative isolate overflow-hidden ${compact ? "min-h-[460px] lg:min-h-[520px]" : "min-h-[680px]"}`}>
-      <img src={image} alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" />
+      <img src={asset(image)} alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" />
       <div className="image-overlay absolute inset-0 -z-10" />
       <div className={`container-page flex ${compact ? "min-h-[460px] pt-28 lg:min-h-[520px] lg:pt-44" : "min-h-[680px] pt-36"} items-center pb-16`}>
         <div className="max-w-3xl text-white">

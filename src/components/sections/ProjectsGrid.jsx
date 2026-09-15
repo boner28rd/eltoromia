@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
+import { asset } from "../../utils/asset.js";
 
 function ProjectModal({ project, onClose }) {
   const [index, setIndex] = useState(0);
@@ -41,7 +42,7 @@ function ProjectModal({ project, onClose }) {
     >
       <div className="max-h-[92vh] w-full max-w-5xl overflow-auto rounded-lg bg-paper shadow-lift">
         <div className="relative bg-charcoal">
-          <img src={current.src} alt={`${project.title} - ${current.label.toLowerCase()}`} className="mx-auto max-h-[58vh] w-full object-contain" />
+          <img src={asset(current.src)} alt={`${project.title} - ${current.label.toLowerCase()}`} className="mx-auto max-h-[58vh] w-full object-contain" />
 
           <span className="absolute left-4 top-4 rounded-full bg-white/95 px-4 py-1.5 text-xs font-extrabold uppercase tracking-[0.16em] text-forest-900">
             {current.label}
@@ -74,7 +75,7 @@ function ProjectModal({ project, onClose }) {
                 aria-label={`Show photo ${i + 1}, ${shot.label.toLowerCase()}`}
                 aria-current={i === index}
               >
-                <img src={shot.thumb} alt="" className="h-full w-full object-cover" loading="lazy" />
+                <img src={asset(shot.thumb)} alt="" className="h-full w-full object-cover" loading="lazy" />
               </button>
             ))}
           </div>
@@ -131,7 +132,7 @@ export default function ProjectsGrid({ projects, categories, masonry = false, li
         {visible.map((project) => (
           <button key={project.id} onClick={() => setSelected(project)} className="group block w-full overflow-hidden rounded-lg bg-white text-left shadow-sm ring-1 ring-charcoal/10 transition hover:-translate-y-1 hover:shadow-premium">
             <div className="relative overflow-hidden">
-              <img src={project.thumb} alt={project.title} loading="lazy" className={`${masonry ? "h-auto min-h-72" : "h-72"} w-full object-cover transition duration-700 group-hover:scale-105`} />
+              <img src={asset(project.thumb)} alt={project.title} loading="lazy" className={`${masonry ? "h-auto min-h-72" : "h-72"} w-full object-cover transition duration-700 group-hover:scale-105`} />
               <div className="absolute inset-0 bg-gradient-to-t from-forest-900/85 via-forest-900/20 to-transparent opacity-90" />
               {project.beforeImage && project.afterImage && (
                 <span className="absolute right-4 top-4 rounded-full bg-clay px-3 py-1 text-xs font-extrabold uppercase tracking-[0.14em] text-white">Before &amp; after</span>

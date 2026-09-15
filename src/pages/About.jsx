@@ -8,6 +8,7 @@ import CTASection from "../components/sections/CTASection.jsx";
 import SectionHeader from "../components/ui/SectionHeader.jsx";
 import Reveal from "../components/ui/Reveal.jsx";
 import Icon from "../components/ui/Icon.jsx";
+import { asset } from "../utils/asset.js";
 
 export default function About() {
   return (
@@ -27,7 +28,7 @@ export default function About() {
             </div>
           </Reveal>
           <Reveal delay={100}>
-            <img src="/images/site/aboutHero.webp" alt="A finished Eltoromia lawn and porcelain terrace" className="aspect-[5/4] rounded-lg object-cover shadow-premium" />
+            <img src={asset("/images/site/aboutHero.webp")} alt="A finished Eltoromia lawn and porcelain terrace" className="aspect-[5/4] rounded-lg object-cover shadow-premium" />
           </Reveal>
         </div>
       </section>
@@ -57,7 +58,7 @@ export default function About() {
           <div className="mt-10 grid gap-6 md:grid-cols-3">
             {company.team.map((person) => (
               <article key={person.name} className="overflow-hidden rounded-lg bg-paper shadow-sm ring-1 ring-charcoal/10">
-                <img src={person.image} alt="" className="h-72 w-full object-cover" />
+                <img src={asset(person.image)} alt="" className="h-72 w-full object-cover" />
                 <div className="p-6">
                   <h3 className="font-display text-2xl font-extrabold">{person.name}</h3>
                   <p className="mt-1 text-sm font-extrabold uppercase tracking-[0.16em] text-clay">{person.role}</p>

@@ -18,6 +18,7 @@ import ProcessTimeline from "../components/sections/ProcessTimeline.jsx";
 import CTASection from "../components/sections/CTASection.jsx";
 import TrustBar from "../components/sections/TrustBar.jsx";
 import { Check } from "lucide-react";
+import { asset } from "../utils/asset.js";
 
 export default function Home() {
   const featuredProjects = getFeaturedProjects().slice(0, 6);
@@ -52,7 +53,7 @@ export default function Home() {
       <section className="section-padding bg-white">
         <div className="container-page grid gap-12 lg:grid-cols-2 lg:items-center">
           <Reveal>
-            <img src={company.story.image} alt="" className="aspect-[4/5] w-full rounded-lg object-cover shadow-premium" />
+            <img src={asset(company.story.image)} alt="" className="aspect-[4/5] w-full rounded-lg object-cover shadow-premium" />
           </Reveal>
           <Reveal delay={120}>
             <p className="eyebrow">{company.story.eyebrow}</p>
