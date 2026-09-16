@@ -1,0 +1,46 @@
+{
+  // Cloudflare Workers static-assets config for eltoromia.
+  //
+  // This file's existence matters as much as its content: `wrangler deploy`
+  // only runs its interactive "no config found" setup wizard when there is no
+  // wrangler.jsonc/toml in the repo. Every deploy so far has hit that wizard
+  // fresh, which twice wanted to overwrite the existing "preview" script
+  // (vite preview --host 127.0.0.1) with "npm run build && wrangler dev" —
+  // harmless so far only because the wizard's changes are sandboxed to
+  // Cloudflare's ephemeral build environment and never reached this repo.
+  // Committing this file skips that wizard on every future build.
+  //
+  // "name" matches the Worker Cloudflare already auto-detected
+  // ("Worker Name: eltoromia" in the build log) so this targets the same
+  // existing Worker rather than creating a new one.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "eltoromia",
+  "compatibility_date": "2026-09-16",
+  // Same lesson learned on the retrohof project: the dashboard can come up
+  // with the workers.dev route switched off with no way to tell from the
+  // project list ("No active routes", no URL shown). Asserting it here means
+  // every deploy actively re-enables it rather than trusting dashboard state.
+  "workers_dev": true,
+  "assets": {
+    "directory": "dist",
+    // The actual fix for the failed deploys. Cloudflare Workers' native SPA
+    // fallback — this serves index.html (a real 200, not a redirect) for any
+    // path that isn't a real file, which is what BrowserRouter needs for a
+    // deep link or a page refresh to resolve correctly.
+    //
+    // public/_redirects previously tried to do the same job with the classic
+    // Cloudflare Pages rule `/* /index.html 200`. Under this project's actual
+    // deployment model (Workers with static assets, not classic Pages) that
+    // rule conflicts with this exact setting and wrangler's own validator
+    // rejects it as an infinite loop:
+    //   Invalid _redirects configuration: Line 6: Infinite loop detected...
+    //   This would cause a redirect to strip `.html` or `/index` and end up
+    //   triggering this rule again. [code: 100324]
+    // Confirmed as a known, reported case, not a fluke:
+    // https://github.com/cloudflare/workers-sdk/issues/10992
+    // The two mechanisms do the same job; only one should exist. This one is
+    // the correct one for this deployment model, so _redirects is deleted
+    // rather than fixed in place.
+    "not_found_handling": "single-page-application"
+  }
+}
