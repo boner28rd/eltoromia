@@ -24,3 +24,5 @@ Thumbs.db
 # Original job photography is kept outside this repo. The site serves only the
 # WebP derivatives under public/images/, which ARE tracked. See README.
 source-photos/
+/.vs
+/.gitignore
